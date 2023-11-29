@@ -1,7 +1,7 @@
-**Milestone 1: Initial Analysis**
+**Project: Initial Analysis**
 
 **Objective:**
-The primary aim of this milestone is to embark on a comprehensive analysis of the Liga 1 Indonesia 2023-2024 Player Dataset. The initial steps involve understanding the dataset's structure, addressing data quality concerns, and preparing it for in-depth exploration.
+The primary aim of this Project is to embark on a comprehensive analysis of the Liga 1 Indonesia 2023-2024 Player Dataset. The initial steps involve understanding the dataset's structure, addressing data quality concerns, and preparing it for in-depth exploration.
 
 **Identification of Problems:**
 
@@ -24,7 +24,7 @@ Explore the distribution of player positions in Liga 1 Indonesia 2023-2024 to id
 Investigate the relationship between players' preferred foot ("foot" column) and their effectiveness in specific positions, providing insights into the strategic dynamics of the league.
 
 **Conclusion:**
-This milestone sets the groundwork for a comprehensive exploration of the Liga 1 Indonesia 2023-2024 Player Dataset. By addressing data quality issues and establishing clear objectives, the analysis aims to provide valuable insights for informed decision-making in Indonesian football.
+This Project sets the groundwork for a comprehensive exploration of the Liga 1 Indonesia 2023-2024 Player Dataset. By addressing data quality issues and establishing clear objectives, the analysis aims to provide valuable insights for informed decision-making in Indonesian football.
 
 ---
 
