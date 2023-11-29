@@ -1,0 +1,487 @@
+kit_number,player_name,position,nationality,height,foot,joined,signed_from,contract,market_value,club_name,birth_date,age
+4,Syaeful Anwar,Centre-Back,Indonesia,1.84,right,2022-04-27,Persita Tangerang,2024,2175.0,Arema FC,1994-12-01,28.0
+5,Bagas Adi,Centre-Back,Indonesia,1.76,left,2020-01-07,Bhayangkara FC,-,3480.0,Arema FC,1997-03-08,26.0
+7,Ariel Lucero,Attacking Midfield,Argentina,1.7,left,2023-07-01,Club Atlético All Boys,-,4350.0,Arema FC,1999-04-16,24.0
+8,Arkhan Fikri,Attacking Midfield,Indonesia,1.65,right,2022-06-15,PS Kwarta Deli Serdang,-,2610.0,Arema FC,2004-12-28,18.0
+9,Evan Dimas,Central Midfield,Indonesia,1.67,both,2022-04-01,Bhayangkara FC,-,4350.0,Arema FC,1995-03-13,28.0
+10,Muhammad Rafli,Attacking Midfield,Indonesia,1.8,both,2016-07-01,ASIFA,-,3915.0,Arema FC,1998-11-24,24.0
+11,Charles Lokolingoy,Centre-Forward,Australia,1.88,right,2023-07-01,Zebbug Rangers FC,-,5220.0,Arema FC,1997-03-02,26.0
+12,Rifad Marasabessy,Right-Back,Indonesia,1.68,right,2023-07-01,Borneo FC Samarinda,-,3045.0,Arema FC,1999-07-07,23.0
+14,Jayus Hariono,Defensive Midfield,Indonesia,1.74,right,2018-01-01,Persekam Metro FC,-,3045.0,Arema FC,1997-01-27,26.0
+15,Ichaka Diarra,Centre-Back,Mali,1.92,left,2023-07-01,Al-Ansar FC,-,4785.0,Arema FC,1995-01-18,28.0
+17,Ginanjar,Centre-Forward,Indonesia,1.79,right,2023-07-01,Persija Jakarta,30-Jun-24,1740.0,Arema FC,2003-11-20,19.0
+18,Julian Schwarzer,Goalkeeper,Philippines,1.81,-,2023-07-20,Kuching City,-,1740.0,Arema FC,1999-10-26,23.0
+19,Achmad Syarif,Attacking Midfield,Indonesia,1.82,right,2023-07-01,Persija Jakarta,30-Jun-24,870.0,Arema FC,2003-04-24,20.0
+23,Teguh Amiruddin,Goalkeeper,Indonesia,1.83,right,2020-01-21,TIRA-Persikabo,-,1305.0,Arema FC,1993-08-13,29.0
+25,Asyraq Gufron,Centre-Back,Indonesia,1.75,right,2023-07-01,Bhayangkara FC,-,1740.0,Arema FC,1996-02-09,27.0
+26,Achmad Figo,Right-Back,Indonesia,1.85,both,2021-08-01,Arema FC Youth,31-Dec-23,2175.0,Arema FC,2001-12-25,21.0
+27,Dedik Setiawan,Centre-Forward,Indonesia,1.77,right,2016-09-25,Persekam Metro FC,-,3480.0,Arema FC,1994-06-27,29.0
+28,Seiya Da Costa,Defensive Midfield,Indonesia,1.77,right,2023-07-12,Arema FC Youth,-,870.0,Arema FC,2001-09-30,21.0
+29,Adixi Lenzivio,Goalkeeper,Indonesia,1.72,right,2023-07-01,PSMS Medan,-,1305.0,Arema FC,1992-09-29,30.0
+41,Dendi Santoso,Right Winger,Indonesia,1.72,both,2013-07-01,Arema Indonesia,-,2175.0,Arema FC,1990-05-16,33.0
+58,Mikael Tata,Left-Back,Indonesia,1.74,left,2023-07-01,Waanal Brothers FC,-,870.0,Arema FC,2004-05-10,19.0
+66,Gufroni Al Maruf,Right Winger,Indonesia,1.72,right,2023-07-13,Dewa United,2024,2175.0,Arema FC,1997-07-19,26.0
+79,Hamdi Sula,Right-Back,Indonesia,1.7,right,2023-07-01,PSMS Medan,-,1305.0,Arema FC,1997-11-03,25.0
+86,Greg Nwokolo,Left Winger,Indonesia,1.75,right,2023-07-20,Without Club,-,1740.0,Arema FC,1986-01-03,37.0
+87,Johan Alfarizi,Left-Back,Indonesia,1.73,left,2013-07-01,Arema Indonesia,-,3045.0,Arema FC,1990-05-25,33.0
+97,Samsudin,Right Winger,Indonesia,1.67,right,2023-07-01,Deltras FC,-,1740.0,Arema FC,1997-03-27,26.0
+1,Adilson Maringá,Goalkeeper,Brazil,1.94,right,2023-07-01,Arema FC,-,5220.0,Bali United FC,1990-08-22,32.0
+2,Ardi Idrus,Right-Back,Indonesia,1.65,both,2022-05-10,PERSIB Bandung,-,3045.0,Bali United FC,1993-01-22,30.0
+4,Elias Dolah,Centre-Back,Thailand,1.96,right,2023-07-01,Port FC,31-May-24,4350.0,Bali United FC,1993-04-24,30.0
+5,Haudi Abdillah,Centre-Back,Indonesia,1.8,right,2019-01-12,PSIS Semarang,-,3045.0,Bali United FC,1993-04-20,30.0
+7,Sidik Saimima,Central Midfield,Indonesia,1.65,right,2020-01-06,PSS Sleman,2024,2175.0,Bali United FC,1997-06-04,26.0
+9,Ilija Spasojević,Centre-Forward,Indonesia,1.87,both,2017-12-13,Bhayangkara FC,31-Dec-23,5220.0,Bali United FC,1987-09-11,35.0
+10,Éber Bessa,Attacking Midfield,Brazil,1.66,right,2021-09-08,CD Nacional,-,6090.0,Bali United FC,1992-03-21,31.0
+11,Yabes Roni,Left Winger,Indonesia,1.68,both,2015-01-13,Without Club,-,3045.0,Bali United FC,1995-02-06,28.0
+13,Rakasurya Handika,Goalkeeper,Indonesia,1.8,right,2019-01-01,Bali United FC Youth,-,870.0,Bali United FC,2000-06-13,23.0
+14,Fadil Sausu,Central Midfield,Indonesia,1.74,left,2015-01-13,Persisam Putra Samarinda (- 2014),2024,870.0,Bali United FC,1985-04-19,38.0
+17,Taufik Hidayat,Centre-Forward,Indonesia,1.79,right,2023-07-01,Madura United FC,-,2175.0,Bali United FC,1999-12-16,23.0
+18,Kadek Agung,Attacking Midfield,Indonesia,1.7,right,2018-01-18,Bali United FC Youth,-,3045.0,Bali United FC,1998-06-25,25.0
+22,Novri Setiawan,Right-Back,Indonesia,1.73,both,2022-05-10,Persija Jakarta,-,3045.0,Bali United FC,1993-11-11,29.0
+23,Ryuji Utomo,Centre-Back,Indonesia,1.83,right,2023-01-11,Persija Jakarta,-,3915.0,Bali United FC,1995-07-01,28.0
+24,Ricky Fajrin,Left-Back,Indonesia,1.77,left,2015-01-13,Without Club,-,4785.0,Bali United FC,1995-09-06,27.0
+26,Komang Tri Arta,Centre-Back,Indonesia,1.81,right,2020-07-23,Bali United FC Youth,31-Dec-23,1740.0,Bali United FC,2001-09-30,21.0
+33,Made Andhika,Right-Back,Indonesia,1.73,right,2016-07-28,Bali United FC Youth,2024,3045.0,Bali United FC,1996-07-12,26.0
+37,Privat Mbarga,Right Winger,Cameroon,1.71,right,2021-12-24,Svay Rieng,-,6090.0,Bali United FC,1992-01-07,31.0
+41,Irfan Jaya,Right Winger,Indonesia,1.62,right,2022-01-06,PSS Sleman,-,3915.0,Bali United FC,1996-05-01,27.0
+44,Kadek Arel,Centre-Back,Indonesia,1.85,right,2023-01-01,Bali United FC Youth,-,435.0,Bali United FC,2005-04-04,18.0
+47,Rahmat Arjuna,Right Winger,Indonesia,1.71,-,2022-12-01,Bali United FC Youth,-,435.0,Bali United FC,2004-04-30,19.0
+55,Made Tito,Defensive Midfield,Indonesia,1.66,right,2022-07-01,Bali United FC Youth,-,1305.0,Bali United FC,2003-07-31,19.0
+66,Gede Agus,Left-Back,Indonesia,1.75,left,2021-02-24,Bali United FC Youth,-,870.0,Bali United FC,2002-06-01,21.0
+67,Komang Aryantara,Goalkeeper,Indonesia,1.81,right,2022-04-25,Bali United FC Youth,-,174.0,Bali United FC,2005-04-01,18.0
+73,Jajang Mulyana,Centre-Back,Indonesia,1.82,right,2022-05-09,Bhayangkara FC,2024,1305.0,Bali United FC,1988-10-23,34.0
+74,Mohammed Rashid,Defensive Midfield,Palestine,1.83,right,2023-07-13,Jabal Al-Mokaber,16-Jul-05,4350.0,Bali United FC,1995-07-03,28.0
+77,Ramdani Lestaluhu,Attacking Midfield,Indonesia,1.67,right,2022-05-10,Persija Jakarta,2024,1740.0,Bali United FC,1991-11-05,31.0
+86,Tegar Infantrie,Defensive Midfield,Indonesia,1.75,right,2023-07-01,Persikabo 1973,-,2175.0,Bali United FC,1999-05-08,24.0
+88,Muhammad Ridho,Goalkeeper,Indonesia,1.78,right,2022-05-01,Madura United FC,-,2610.0,Bali United FC,1991-01-21,32.0
+91,Rahmat,Left Winger,Indonesia,1.73,right,2020-01-01,PSM Makassar,2024,1740.0,Bali United FC,1988-05-28,35.0
+94,Jefferson,Centre-Forward,Brazil,1.85,-,2023-07-05,Gzira United FC,-,6960.0,Bali United FC,1994-10-21,28.0
+1,Aqil Savik,Goalkeeper,Indonesia,1.86,right,2022-05-01,PERSIB Bandung,-,1740.0,Bhayangkara FC,1999-01-17,24.0
+2,Alef,Centre-Back,Brazil,1.86,right,2023-07-20,Khon Kaen United,-,4350.0,Bhayangkara FC,1993-09-10,29.0
+3,Abanda Rahman,Centre-Back,Indonesia,1.81,right,2023-07-01,Madura United FC,-,870.0,Bhayangkara FC,1990-08-24,32.0
+4,Anderson Salles,Centre-Back,Brazil,1.81,right,2021-05-20,Paraná Clube,-,4350.0,Bhayangkara FC,1988-02-16,35.0
+5,Fatchu Rochman,Left-Back,Indonesia,1.7,both,2014-11-01,Persekap Pasuruan,-,2175.0,Bhayangkara FC,1995-06-28,28.0
+8,Muhammad Hargianto,Defensive Midfield,Indonesia,1.68,right,2014-11-11,Diklat Ragunan,-,3915.0,Bhayangkara FC,1996-07-24,26.0
+10,Adam Najem,Defensive Midfield,Afghanistan,1.75,right,2022-07-11,New York Red Bulls II,14-May-23,3480.0,Bhayangkara FC,1995-01-19,28.0
+11,Dylan De Bruycker,Defensive Midfield,Philippines,1.75,right,2023-07-01,Nakhonratchasima Mazda FC,-,2610.0,Bhayangkara FC,1997-12-05,25.0
+12,Awan Setho,Goalkeeper,Indonesia,1.75,right,2017-01-01,Persip Pekalongan,-,3915.0,Bhayangkara FC,1997-03-19,26.0
+13,Ichwan Tuharea,Attacking Midfield,Indonesia,1.71,right,2020-01-01,Bhayangkara FC Youth,-,870.0,Bhayangkara FC,2000-11-14,22.0
+15,Surya Maulana,Centre-Back,Indonesia,1.81,right,2021-07-01,Bhayangkara FC Youth,-,435.0,Bhayangkara FC,2001-07-09,21.0
+18,Crislan,Centre-Forward,Brazil,1.9,left,2023-07-06,Swat Cat,-,5220.0,Bhayangkara FC,1992-03-13,31.0
+20,Sani Rizki,Right-Back,Indonesia,1.65,right,2018-03-01,Bhayangkara FC Youth,-,3480.0,Bhayangkara FC,1998-01-07,25.0
+21,Titan Agung,Centre-Forward,Indonesia,1.76,right,2021-03-01,Arema FC,-,1740.0,Bhayangkara FC,2001-06-05,22.0
+22,Dendy Sulistyawan,Centre-Forward,Indonesia,1.76,right,2017-01-01,Persela Lamongan,-,3915.0,Bhayangkara FC,1996-10-12,26.0
+23,Wahyu Subo Seto,Attacking Midfield,Indonesia,1.68,right,2014-01-01,Surabaya United Youth,-,3480.0,Bhayangkara FC,1993-07-16,29.0
+27,Indra Kahfi,Centre-Back,Indonesia,1.79,right,2016-04-05,Pusamania Borneo FC,-,435.0,Bhayangkara FC,1986-10-05,36.0
+28,Alsan Sanda,Right-Back,Indonesia,1.72,right,2017-01-01,Bali United FC,-,2610.0,Bhayangkara FC,1992-08-01,30.0
+29,Reza Kusuma,Attacking Midfield,Indonesia,1.71,right,2022-06-01,PS Mitra Kukar,-,870.0,Bhayangkara FC,2000-02-07,23.0
+30,Indra Adi Nugraha,Goalkeeper,Indonesia,1.78,right,2018-02-01,Persiga Trenggalek,-,435.0,Bhayangkara FC,1993-10-08,29.0
+31,Dimas Pamungkas,Central Midfield,Indonesia,1.74,left,2022-07-01,PERSIB Bandung,-,870.0,Bhayangkara FC,2004-07-31,18.0
+33,Matías Mier,Attacking Midfield,Uruguay,1.82,left,2023-01-20,Independiente Santa Fe,-,7830.0,Bhayangkara FC,1990-08-02,32.0
+41,Frezy AI Hudaifi,Defensive Midfield,Indonesia,1.65,left,2022-08-01,Bhayangkara FC Youth,-,1305.0,Bhayangkara FC,2004-04-21,19.0
+43,Faiz Maulana,Centre-Forward,Indonesia,1.77,right,2022-08-01,PS Bina Taruna,-,435.0,Bhayangkara FC,2004-07-15,19.0
+45,Fernando Surbay,Left Winger,Indonesia,1.7,left,2022-06-01,PS Palembang,31-Mar-23,174.0,Bhayangkara FC,2000-04-22,23.0
+66,David Maulana,Central Midfield,Indonesia,1.69,left,2022-07-01,HNK Rijeka,15-Jun-24,1305.0,Bhayangkara FC,2002-02-25,21.0
+98,Usman Diarra,Centre-Forward,Indonesia,1.8,right,2023-07-08,New Taipei City Hang Yuan FC,-,435.0,Bhayangkara FC,1998-01-31,25.0
+99,Fandi Utomo,Attacking Midfield,Indonesia,1.76,right,2023-07-01,Without Club,-,2175.0,Bhayangkara FC,1991-03-02,32.0
+1,Angga Saputro,Goalkeeper,Indonesia,1.8,left,2021-03-01,Persebaya Surabaya,28-Feb-23,3480.0,Borneo FC Samarinda,1993-11-30,29.0
+4,Léo Lelis,Centre-Back,Brazil,1.89,both,2023-07-01,Persebaya Surabaya,14-May-24,4785.0,Borneo FC Samarinda,1993-11-15,29.0
+6,Silvério,Centre-Back,Portugal,1.86,both,2023-07-01,FC Penafiel,30-Jun-24,3480.0,Borneo FC Samarinda,1995-12-26,27.0
+8,Kei Hirose,Central Midfield,Japan,1.72,both,2021-12-15,Johor Darul Ta'zim II,14-Jun-26,5655.0,Borneo FC Samarinda,1995-11-20,27.0
+9,Ahmad Nur Hardianto,Centre-Forward,Indonesia,1.78,right,2022-05-01,Persita Tangerang,30-Apr-24,3480.0,Borneo FC Samarinda,1995-03-06,28.0
+10,Jelle Goselink,Centre-Forward,Netherlands,1.89,both,2023-07-01,Helmond Sport,-,3915.0,Borneo FC Samarinda,1999-07-31,23.0
+12,Hendro Siswanto,Defensive Midfield,Indonesia,1.72,right,2021-03-01,Arema FC,28-Feb-23,3480.0,Borneo FC Samarinda,1990-03-12,33.0
+13,Agung Prasetyo,Centre-Back,Indonesia,1.87,right,2022-05-01,Persita Tangerang,30-Apr-24,3045.0,Borneo FC Samarinda,1992-12-22,30.0
+14,Stefano Lilipaly,Right Winger,Indonesia,1.75,right,2022-05-01,Bali United FC,30-Apr-24,5655.0,Borneo FC Samarinda,1990-01-10,33.0
+15,Leo Guntara,Left-Back,Indonesia,1.71,left,2021-02-23,PSM Makassar,30-Apr-24,3045.0,Borneo FC Samarinda,1994-08-17,28.0
+16,Komang Teguh,Defensive Midfield,Indonesia,1.76,right,2020-10-03,Diklat Ragunan,3-Oct-24,1740.0,Borneo FC Samarinda,2002-04-28,21.0
+17,Ikhsanul Zikrak,Attacking Midfield,Indonesia,1.75,left,2023-07-01,RANS Nusantara FC,30-Apr-26,1305.0,Borneo FC Samarinda,2002-11-08,20.0
+18,Taufany Muslihuddin,Attacking Midfield,Indonesia,1.71,right,2022-05-01,PS Mitra Kukar,30-Apr-25,1305.0,Borneo FC Samarinda,2002-03-24,21.0
+19,Adam Alis,Left Winger,Indonesia,1.72,right,2023-01-26,Arema FC,27-Jan-25,4350.0,Borneo FC Samarinda,1993-12-19,29.0
+22,Rizky Dwi,Right-Back,Indonesia,1.78,right,2023-07-01,Arema FC,30-Jun-24,3915.0,Borneo FC Samarinda,1997-02-22,26.0
+23,Arya Gerryan,Right Winger,Indonesia,1.64,right,2020-02-06,Borneo FC Samarinda Youth,31-Dec-23,1305.0,Borneo FC Samarinda,2001-10-24,21.0
+24,Diego Michiels,Right-Back,Indonesia,1.8,right,2022-05-01,Arema FC,30-Apr-24,2610.0,Borneo FC Samarinda,1990-08-08,32.0
+25,Nadeo Argawinata,Goalkeeper,Indonesia,1.87,right,2023-07-01,Bali United FC,30-Apr-26,4785.0,Borneo FC Samarinda,1997-03-09,26.0
+28,Terens Puhiri,Right Winger,Indonesia,1.67,right,2015-01-01,Persisam Putra Samarinda (- 2014),30-Apr-24,3480.0,Borneo FC Samarinda,1996-10-13,26.0
+54,Alfharezzi Buffon,Centre-Back,Indonesia,1.72,-,2023-01-21,Borneo FC Samarinda Youth,30-Apr-27,174.0,Borneo FC Samarinda,2006-04-28,17.0
+56,Fajar Fathur Rahman,Right-Back,Indonesia,1.7,right,2020-09-10,SSB ASAD 313 Jaya Perkasa,31-Dec-23,3480.0,Borneo FC Samarinda,2002-05-29,21.0
+63,Daffa Fasya,Goalkeeper,Indonesia,1.84,-,2023-01-01,Borneo FC Samarinda Youth,5-Oct-24,435.0,Borneo FC Samarinda,2004-05-07,19.0
+68,Hugo Samir,Right Winger,Indonesia,1.77,right,2023-07-01,PERSIS Solo Youth,1-Jun-24,174.0,Borneo FC Samarinda,2005-01-25,18.0
+77,Abdul Rachman,Left-Back,Indonesia,1.69,left,2023-01-16,Bhayangkara FC,30-Apr-25,870.0,Borneo FC Samarinda,1988-01-30,35.0
+81,Yogi Hermawan,Goalkeeper,Indonesia,1.85,right,2023-01-31,PS Barito Putera,30-Apr-25,435.0,Borneo FC Samarinda,2003-01-16,20.0
+90,Muhammad Sihran,Left Winger,Indonesia,1.58,left,2018-09-01,Borneo FC Samarinda Youth,30-Apr-24,2610.0,Borneo FC Samarinda,1999-03-08,24.0
+91,Felipe Cadenazzi,Centre-Forward,Argentina,1.91,left,2023-07-20,Magallanes CF,-,3915.0,Borneo FC Samarinda,1991-10-12,31.0
+99,Win Naing Tun,Centre-Forward,Myanmar,1.82,right,2023-07-01,Yangon United,31-May-24,1740.0,Borneo FC Samarinda,2000-05-03,23.0
+1,Muhammad Natshir,Goalkeeper,Indonesia,1.82,right,2022-04-01,PERSIB Bandung,2024,2610.0,Dewa United FC,1993-02-13,30.0
+2,Mochammad Zaenuri,Centre-Back,Indonesia,1.82,right,2022-07-20,Persebaya Surabaya,20-Jul-23,3480.0,Dewa United FC,1995-06-10,28.0
+3,Junior Eldstal,Centre-Back,Malaysia,1.91,right,2023-07-20,Johor Darul Ta'zim,31-Dec-23,2610.0,Dewa United FC,1991-09-16,31.0
+4,Asep Berlian,Defensive Midfield,Indonesia,1.78,right,2022-04-07,Madura United FC,2024,1305.0,Dewa United FC,1990-07-11,32.0
+5,Risto Mitrevski,Centre-Back,North Macedonia,1.87,both,2022-05-01,Without Club,30-Apr-24,3915.0,Dewa United FC,1991-10-05,31.0
+6,Theo Numberi,Central Midfield,Indonesia,1.64,right,2022-06-01,Persipura Jayapura,2024,1740.0,Dewa United FC,2001-09-01,21.0
+7,Feby Eka,Left Winger,Indonesia,1.83,both,2022-04-01,Arema FC,31-Mar-24,3045.0,Dewa United FC,1999-02-12,24.0
+8,Nasir,Left-Back,Indonesia,1.7,left,2022-07-01,Persela Lamongan,2024,1740.0,Dewa United FC,1995-10-08,27.0
+10,Egy Maulana Vikri,Right Winger,Indonesia,1.7,left,2023-01-30,ViOn Zlate Moravce-Vrable,-,3045.0,Dewa United FC,2000-07-07,22.0
+11,Majed Osman,Attacking Midfield,Lebanon,1.83,right,2022-07-01,Al-Ansar FC,31-May-24,6090.0,Dewa United FC,1994-06-09,29.0
+12,Henhen Herdiana,Right-Back,Indonesia,1.69,right,2023-07-01,PERSIB Bandung,1-Jul-24,3480.0,Dewa United FC,1995-09-10,27.0
+13,Subhan Fajri,Left Winger,Indonesia,1.69,left,2022-04-01,Persiraja Banda Aceh,31-Mar-24,870.0,Dewa United FC,2003-05-13,20.0
+14,Brian Fatari,Centre-Back,Indonesia,1.86,right,2023-01-04,Persipura Jayapura,-,1740.0,Dewa United FC,1999-12-20,23.0
+15,Rangga Muslim,Attacking Midfield,Indonesia,1.66,both,2021-03-01,Bhayangkara FC,31-Mar-24,3915.0,Dewa United FC,1994-05-13,29.0
+17,Ahmad Nufiandani,Right Winger,Indonesia,1.78,right,2023-07-01,Persebaya Surabaya,-,3045.0,Dewa United FC,1994-11-20,28.0
+19,Ricky Kambuaya,Attacking Midfield,Indonesia,1.77,right,2022-04-05,Persib Bandung,-,4785.0,Dewa United FC,1996-05-05,27.0
+22,Dimitrios Kolovos,Attacking Midfield,Greece,1.84,both,2023-07-01,Panetolikos GFS,2025,10440.0,Dewa United FC,1993-04-27,30.0
+23,Ady Setiawan,Right-Back,Indonesia,1.67,right,2023-07-01,RANS Nusantara FC,-,3480.0,Dewa United FC,1994-09-10,28.0
+24,Ichsan Kurniawan,Defensive Midfield,Indonesia,1.69,right,2022-04-01,Persija Jakarta,2024,2175.0,Dewa United FC,1995-12-24,27.0
+28,Dennish,Attacking Midfield,Indonesia,1.69,right,2022-05-01,PS Mitra Kukar,30-Apr-24,435.0,Dewa United FC,2001-01-28,22.0
+37,Alta Ballah,Left-Back,Indonesia,1.75,left,2023-07-01,Persebaya Surabaya,-,3480.0,Dewa United FC,2000-12-30,22.0
+39,Alex,Centre-Forward,Brazil,1.87,right,2023-07-01,Bhayangkara FC,-,3045.0,Dewa United FC,1993-07-08,29.0
+47,Agung Mannan,Centre-Back,Indonesia,1.75,left,2023-07-01,PSM Makassar,-,2175.0,Dewa United FC,1998-08-06,24.0
+60,Yofandani Pranata,Goalkeeper,Indonesia,1.82,right,2023-07-01,PSIS Semarang,-,435.0,Dewa United FC,2001-04-09,22.0
+71,Iqbal Al Ghuzat,Left-Back,Indonesia,1.66,right,2023-07-01,FC Bekasi City,-,2175.0,Dewa United FC,1999-02-17,24.0
+87,Ahmad Rusadi,Centre-Back,Indonesia,1.8,right,2023-07-01,PSM Makassar,-,1305.0,Dewa United FC,2003-04-04,20.0
+92,Sonny Stevens,Goalkeeper,Netherlands,1.94,right,2023-07-01,OFI Crete FC,-,7830.0,Dewa United FC,1992-06-22,31.0
+99,Septian Bagaskara,Centre-Forward,Indonesia,1.83,both,2023-07-01,RANS Nusantara FC,-,3045.0,Dewa United FC,1997-09-26,25.0
+2,Guntur Ariyadi,Right-Back,Indonesia,1.74,right,2016-04-01,PS Barito Putera,2024,435.0,Madura United FC,1987-03-16,36.0
+4,Cleberson,Centre-Back,Brazil,1.85,right,2022-06-04,Ituano Futebol Clube (SP),2024,5655.0,Madura United FC,1992-08-17,30.0
+5,Jacob Mahler,Centre-Back,Singapore,1.84,right,2023-07-01,military service (Singapore),-,1305.0,Madura United FC,2000-04-10,23.0
+7,Francisco Rivera,Attacking Midfield,Mexico,1.7,left,2023-07-01,KF Llapi,-,5655.0,Madura United FC,1994-09-23,28.0
+8,Hugo Gomes,Attacking Midfield,Brazil,1.78,left,2021-03-15,Kalmar FF,2024,6960.0,Madura United FC,1995-03-18,28.0
+9,Beto,Centre-Forward,Indonesia,1.75,right,2022-01-03,PERSIS Solo,"Dec, 2023",435.0,Madura United FC,1980-12-31,42.0
+10,Slamet Nurcahyono,Attacking Midfield,Indonesia,1.65,right,2016-02-01,Bhayangkara Surabaya United,2024,435.0,Madura United FC,1983-07-11,39.0
+11,Lulinha,Left Winger,Brazil,1.7,right,2022-05-09,Without Club,2024,4350.0,Madura United FC,1990-04-10,33.0
+15,Ricki Ariansyah,Defensive Midfield,Indonesia,1.67,left,2022-05-07,Persita Tangerang,2024,2610.0,Madura United FC,1997-06-10,26.0
+16,Rendika Rama,Left-Back,Indonesia,1.78,left,2023-07-01,Arema FC,-,2175.0,Madura United FC,1993-03-16,30.0
+17,Kevy Syahertian,Attacking Midfield,Indonesia,1.64,left,2019-07-01,Madura United FC Youth,-,1305.0,Madura United FC,1999-06-23,24.0
+19,Fachruddin Aryanto,Centre-Back,Indonesia,1.85,right,2017-01-01,Sriwijaya FC,2024,3480.0,Madura United FC,1989-02-19,34.0
+23,Bayu Gatra,Right Winger,Indonesia,1.67,right,2021-03-14,PSM Makassar,2024,1740.0,Madura United FC,1991-11-12,31.0
+26,Novan Sasongko,Left-Back,Indonesia,1.7,right,2021-05-20,Persela Lamongan,2024,1305.0,Madura United FC,1989-11-26,33.0
+27,Make Aldo Maulidino,Centre-Forward,Indonesia,1.7,right,2021-02-19,Without Club,2024,435.0,Madura United FC,1998-07-22,24.0
+28,Kartika Vedhayanto,Right-Back,Indonesia,1.72,right,2023-07-01,PSIS Semarang,-,870.0,Madura United FC,2002-01-25,21.0
+31,Yuda Editya Pratama,Centre-Forward,Indonesia,1.81,right,2023-07-01,Borneo FC Samarinda,31-Mar-24,435.0,Madura United FC,2004-05-31,19.0
+32,Muhammad Tahir,Central Midfield,Indonesia,1.7,right,2023-07-01,Persipura Jayapura,-,2610.0,Madura United FC,1994-01-04,29.0
+33,Koko Ari,Right-Back,Indonesia,1.78,right,2023-07-01,Persebaya Surabaya,-,3915.0,Madura United FC,2000-01-09,23.0
+42,Feby Ramzy,Defensive Midfield,Indonesia,1.67,right,2022-01-01,Persepam Pamekasan,2024,435.0,Madura United FC,2002-02-04,21.0
+60,Fawaid Ansory,Goalkeeper,Indonesia,1.74,right,2019-01-17,Madura United FC Youth,2024,435.0,Madura United FC,1999-09-13,23.0
+61,Karisma Ramadhany,Goalkeeper,Indonesia,1.79,right,2022-01-01,Persikama Magelang,2024,174.0,Madura United FC,2003-11-07,19.0
+76,Alexvan Djin,Right-Back,Indonesia,1.8,right,2020-01-04,Persik Kediri,2024,3045.0,Madura United FC,1998-12-31,24.0
+77,Malik Risaldi,Right Winger,Indonesia,1.71,right,2022-04-23,Persela Lamongan,2024,2610.0,Madura United FC,1996-10-23,26.0
+81,Wawan Hendrawan,Goalkeeper,Indonesia,1.78,right,2023-07-06,RANS Nusantara FC,-,435.0,Madura United FC,1983-01-08,40.0
+88,Satria Tama,Goalkeeper,Indonesia,1.83,right,2023-07-01,Persebaya Surabaya,-,2175.0,Madura United FC,1997-01-23,26.0
+95,Junior Brandão,Centre-Forward,Brazil,1.87,right,2023-07-01,Without Club,-,5220.0,Madura United FC,1995-01-07,28.0
+2,Arief Catur,Right-Back,Indonesia,1.69,right,2022-04-20,Persikab Bandung,-,1305.0,Persebaya Surabaya,1999-07-25,23.0
+3,Reva Adi,Left-Back,Indonesia,1.72,left,2023-07-01,Madura United FC,-,3480.0,Persebaya Surabaya,1996-09-01,26.0
+5,Dusan Stevanovic,Centre-Back,Serbia,1.86,left,2023-07-01,FK Radnik Surdulica,30-Jun-23,6090.0,Persebaya Surabaya,1996-06-22,27.0
+6,Muhammad Iqbal,Right Winger,Indonesia,1.69,right,2023-01-03,Without Club,-,435.0,Persebaya Surabaya,2000-10-27,22.0
+7,Ui-young Song,Attacking Midfield,Singapore,1.71,right,2023-07-01,Nongbua Pitchaya FC,31-May-24,4350.0,Persebaya Surabaya,1993-11-08,29.0
+8,Andre Oktaviansyah,Defensive Midfield,Indonesia,1.6,right,2022-04-06,Persikabo 1973,-,2175.0,Persebaya Surabaya,2002-10-23,20.0
+9,Paulo Victor,Centre-Forward,Brazil,1.8,right,2023-01-11,Visakha FC,-,3480.0,Persebaya Surabaya,1994-09-13,28.0
+10,Zé Valente,Attacking Midfield,Portugal,1.8,left,2023-01-06,PSS Sleman,30-Jun-25,5220.0,Persebaya Surabaya,1994-05-14,29.0
+12,Nuri Fasya,Right-Back,Indonesia,1.71,right,2023-07-01,FC Bekasi City,-,1305.0,Persebaya Surabaya,1999-01-23,24.0
+14,Sho Yamamoto,Left Winger,Japan,1.74,both,2022-06-01,FK Iskra Danilovgrad,30-Apr-24,4350.0,Persebaya Surabaya,1996-11-12,26.0
+16,George Brown,Right-Back,Indonesia,1.79,right,2023-01-02,Without Club,31-Dec-24,870.0,Persebaya Surabaya,1999-06-04,24.0
+17,Ferdinan Sinaga,Centre-Forward,Indonesia,1.69,left,2023-07-01,PERSIS Solo,-,870.0,Persebaya Surabaya,1988-09-18,34.0
+18,Brylian Aldama,Central Midfield,Indonesia,1.75,right,2022-04-27,HNK Rijeka,-,1740.0,Persebaya Surabaya,2002-02-23,21.0
+20,Wildan Ramdhani,Right Winger,Indonesia,1.7,right,2023-07-01,Persita Tangerang,-,2175.0,Persebaya Surabaya,1998-12-24,24.0
+21,Ernando Ari,Goalkeeper,Indonesia,1.77,right,2020-01-05,Persebaya Surabaya Youth,31-Jan-25,3480.0,Persebaya Surabaya,2002-02-27,21.0
+22,Risky Dwiyan,Defensive Midfield,Indonesia,1.7,left,2022-04-20,Persikab Bandung,-,1305.0,Persebaya Surabaya,1999-04-01,24.0
+23,Kadek Raditya,Centre-Back,Indonesia,1.78,right,2023-07-01,Madura United FC,-,2610.0,Persebaya Surabaya,1999-06-13,24.0
+24,Salman Alfarid,Left-Back,Indonesia,1.74,left,2022-04-21,Persija Jakarta,-,870.0,Persebaya Surabaya,2002-04-16,21.0
+32,Riswan Lauhim,Centre-Back,Indonesia,1.75,both,2022-06-11,Without Club,-,1305.0,Persebaya Surabaya,1998-08-08,24.0
+36,Ripal Wahyudi,Defensive Midfield,Indonesia,1.68,right,2023-07-01,Bhayangkara FC,-,870.0,Persebaya Surabaya,2000-10-10,22.0
+50,Yohanes Kandaimu,Centre-Back,Indonesia,1.89,right,2023-07-01,Persita Tangerang,-,2610.0,Persebaya Surabaya,1995-08-12,27.0
+52,Andhika Ramadhani,Goalkeeper,Indonesia,1.84,right,2020-09-26,Persebaya Surabaya Youth,31-Dec-25,2610.0,Persebaya Surabaya,1999-01-05,24.0
+64,Aditya Arya,Goalkeeper,Indonesia,1.83,right,2022-07-10,Bhayangkara FC Youth,-,435.0,Persebaya Surabaya,2004-01-01,19.0
+74,Denny Agus,Right Winger,Indonesia,1.69,right,2022-04-20,Persikota Tangerang,-,435.0,Persebaya Surabaya,2000-08-11,22.0
+77,Kasim Botan,Right Winger,Indonesia,1.7,right,2023-07-01,Bhayangkara FC,-,2610.0,Persebaya Surabaya,1997-04-14,26.0
+88,Alwi Slamat,Defensive Midfield,Indonesia,1.68,left,2019-01-25,PSMS Medan,31-Mar-23,3915.0,Persebaya Surabaya,1998-12-16,24.0
+96,Muhammad Hidayat,Defensive Midfield,Indonesia,1.77,right,2017-03-22,Pusamania Borneo FC,31-Mar-23,2610.0,Persebaya Surabaya,1996-04-26,27.0
+99,Bruno,Left Winger,Brazil,1.78,both,2023-07-01,Without Club,-,4350.0,Persebaya Surabaya,1999-04-08,24.0
+-,Levy Madinda,Attacking Midfield,Gabon,1.82,right,2023-07-20,Johor Darul Ta'zim,31-Dec-23,3045.0,Persib Bandung,1992-06-11,31.0
+1,Fitrul Rustapa,Goalkeeper,Indonesia,1.77,right,2022-04-18,Persipura Jayapura,-,2610.0,Persib Bandung,1995-06-05,28.0
+2,Nick Kuipers,Centre-Back,Netherlands,1.93,right,2019-08-15,ADO Den Haag,-,6960.0,Persib Bandung,1992-10-08,30.0
+4,Putu Gede,Right-Back,Indonesia,1.76,right,2023-07-01,Bhayangkara FC,-,3480.0,Persib Bandung,1995-06-07,28.0
+5,Kakang Rudianto,Centre-Back,Indonesia,1.83,right,2020-09-15,PERSIB Bandung Youth,-,2610.0,Persib Bandung,2003-02-02,20.0
+6,Robi Darwis,Defensive Midfield,Indonesia,1.7,right,2022-05-01,PERSIB Bandung Youth,-,1740.0,Persib Bandung,2003-08-02,19.0
+7,Beckham Putra,Attacking Midfield,Indonesia,1.73,right,2019-01-01,PERSIB Bandung Youth,-,4350.0,Persib Bandung,2001-10-29,21.0
+8,Abdul Aziz,Central Midfield,Indonesia,1.72,right,2019-01-08,PSMS Medan,-,2175.0,Persib Bandung,1994-02-14,29.0
+9,Ezra Walian,Left Winger,Indonesia,1.85,right,2021-03-14,PSM Makassar,-,4785.0,Persib Bandung,1997-10-22,25.0
+11,Dedi Kusnandar,Defensive Midfield,Indonesia,1.75,right,2016-12-26,Sabah FC,-,3045.0,Persib Bandung,1991-07-23,31.0
+13,Febri Hariyadi,Right Winger,Indonesia,1.68,both,2016-01-01,PERSIB Bandung Youth,-,3915.0,Persib Bandung,1996-02-19,27.0
+14,Teja Paku Alam,Goalkeeper,Indonesia,1.77,right,2020-01-16,Semen Padang FC,-,3915.0,Persib Bandung,1994-03-14,29.0
+16,Achmad Jufriyanto,Centre-Back,Indonesia,1.82,right,2019-04-18,Kuala Lumpur City FC,-,1305.0,Persib Bandung,1987-02-07,36.0
+18,Ferdiansyah,Right Winger,Indonesia,1.72,right,2021-08-29,PERSIB Bandung Youth,-,1740.0,Persib Bandung,2003-07-15,19.0
+19,David da Silva,Centre-Forward,Brazil,1.85,right,2021-12-15,Terengganu FC,-,3915.0,Persib Bandung,1989-11-12,33.0
+20,Eriyanto,Right-Back,Indonesia,1.73,right,2022-04-25,PERSIS Solo,-,1305.0,Persib Bandung,1996-03-12,27.0
+21,Frets Butuan,Left Winger,Indonesia,1.67,right,2019-01-13,PSMS Medan,-,3480.0,Persib Bandung,1996-06-04,27.0
+22,Alberto Rodriguez,Centre-Back,Spain,1.91,both,2023-07-01,CD Lugo,-,5220.0,Persib Bandung,1992-12-31,30.0
+23,Marc Klok,Central Midfield,Indonesia,1.77,right,2021-06-30,Persija Jakarta,-,8265.0,Persib Bandung,1993-04-20,30.0
+27,Zalnando,Left-Back,Indonesia,1.76,left,2019-01-16,Sriwijaya FC,-,2175.0,Persib Bandung,1996-12-25,26.0
+32,Victor Igbonefo,Centre-Back,Indonesia,1.83,right,2020-01-01,PTT Rayong (1998-2019),-,870.0,Persib Bandung,1985-10-10,37.0
+34,Reky Rahayu,Goalkeeper,Indonesia,1.76,right,2022-05-28,Kalteng Putra FC,-,1740.0,Persib Bandung,1993-05-08,30.0
+53,Rachmat Irianto,Centre-Back,Indonesia,1.75,right,2022-04-05,Persebaya Surabaya,-,5655.0,Persib Bandung,1999-09-03,23.0
+56,Rezaldi Hehanusa,Left-Back,Indonesia,1.78,left,2023-01-26,Persija Jakarta,-,2610.0,Persib Bandung,1995-11-07,27.0
+66,Daisuke Sato,Left-Back,Philippines,1.7,left,2022-06-10,Ratchaburi FC,-,3480.0,Persib Bandung,1994-09-20,28.0
+70,Arsan Makarin,Right Winger,Indonesia,1.66,-,2022-04-25,Bandung United FC,-,870.0,Persib Bandung,2001-02-08,22.0
+77,Ciro Alves,Right Winger,Brazil,1.75,right,2022-04-13,Persikabo 1973,-,6090.0,Persib Bandung,1989-04-18,34.0
+96,Ryan Kurnia,Right Winger,Indonesia,1.8,right,2023-07-01,Persikabo 1973,-,2610.0,Persib Bandung,1996-06-28,27.0
+97,Edo Febriansyah,Left-Back,Indonesia,1.73,left,2023-07-01,RANS Nusantara FC,-,3915.0,Persib Bandung,1997-07-25,25.0
+99,Ridwan Ansori,Centre-Forward,Indonesia,1.74,left,2022-02-07,PERSIB Bandung Youth,-,435.0,Persib Bandung,2004-02-13,19.0
+2,Rio Fahmi,Right-Back,Indonesia,1.7,right,2021-08-01,Persija Jakarta Youth,30-Jun-25,3915.0,Persija Jakarta,2001-10-06,21.0
+5,Dandi Maulana,Centre-Back,Indonesia,1.75,right,2023-01-04,Persebaya Surabaya,-,2610.0,Persija Jakarta,1998-06-17,25.0
+6,Tony Sucipto,Defensive Midfield,Indonesia,1.68,left,2019-01-18,PERSIB Bandung,31-Mar-23,174.0,Persija Jakarta,1986-02-12,37.0
+7,Ryo Matsumura,Attacking Midfield,Japan,1.66,right,2023-07-01,BG Pathum United,31-May-26,4785.0,Persija Jakarta,1994-06-15,29.0
+8,Syahrian Abimanyu,Central Midfield,Indonesia,1.71,left,2022-01-12,Johor Darul Ta'zim,30-Jun-24,3915.0,Persija Jakarta,1999-04-25,24.0
+9,Marko Simic,Centre-Forward,Croatia,1.87,both,2023-07-01,Without Club,2025,1740.0,Persija Jakarta,1988-01-23,35.0
+10,Maciej Gajos,Attacking Midfield,Poland,1.74,right,2023-07-14,Lechia Gdansk,30-Jun-25,4350.0,Persija Jakarta,1991-03-19,32.0
+11,Firza Andika,Left-Back,Indonesia,1.69,left,2022-04-03,Persikabo 1973,30-Jun-25,3480.0,Persija Jakarta,1999-05-11,24.0
+13,Adre Arido,Goalkeeper,Indonesia,1.85,right,2022-06-23,Persija Jakarta Youth,-,435.0,Persija Jakarta,2003-08-13,19.0
+17,Ondrej Kudela,Centre-Back,Czech Republic,1.82,right,2022-07-01,SK Slavia Prague,30-Jun-25,6090.0,Persija Jakarta,1987-03-26,36.0
+19,Hanif Sjahbandi,Defensive Midfield,Indonesia,1.81,right,2022-04-03,Arema FC,31-Mar-24,3915.0,Persija Jakarta,1997-04-07,26.0
+21,Alfriyanto Nico,Right Winger,Indonesia,1.72,right,2020-08-20,Persija Jakarta Youth,-,2610.0,Persija Jakarta,2003-04-03,20.0
+22,Oliver Bias,Right Winger,Philippines,1.64,both,2023-07-20,FK Pribram,30-Jun-24,1305.0,Persija Jakarta,2001-06-15,22.0
+23,Hansamu Yama,Centre-Back,Indonesia,1.81,right,2022-04-06,Bhayangkara FC,31-May-25,4350.0,Persija Jakarta,1995-01-16,28.0
+24,Resky Fandi,Defensive Midfield,Indonesia,1.73,right,2019-01-07,Martapura FC,30-Jun-25,3045.0,Persija Jakarta,1999-09-06,23.0
+25,Riko Simanjuntak,Right Winger,Indonesia,1.58,right,2018-02-01,Semen Padang FC,30-Jun-26,3915.0,Persija Jakarta,1992-01-26,31.0
+26,Andritany,Goalkeeper,Indonesia,1.78,right,2010-07-01,Sriwijaya FC,30-Jun-26,4350.0,Persija Jakarta,1991-12-26,31.0
+41,Muhammad Ferarri,Centre-Back,Indonesia,1.79,right,2020-08-20,Persija Jakarta Youth,30-Jun-25,3045.0,Persija Jakarta,2003-06-21,20.0
+50,Cahya Supriadi,Goalkeeper,Indonesia,1.79,right,2021-03-18,Persija Jakarta Youth,-,2175.0,Persija Jakarta,2003-02-11,20.0
+56,Maman Abdurahman,Centre-Back,Indonesia,1.77,right,2015-07-01,Persita Tangerang,31-Mar-23,174.0,Persija Jakarta,1982-05-12,41.0
+73,Sandi Samosir,Left Winger,Indonesia,1.8,left,2023-01-30,Persija Jakarta Youth,-,870.0,Persija Jakarta,2002-01-08,21.0
+74,Rizky Ridho,Centre-Back,Indonesia,1.83,right,2023-07-01,Persebaya Surabaya,30-Jun-26,5655.0,Persija Jakarta,2001-11-21,21.0
+77,Dony Tri Pamungkas,Attacking Midfield,Indonesia,1.77,left,2021-09-01,Persija Jakarta Youth,30-Jun-25,2175.0,Persija Jakarta,2005-01-11,18.0
+78,Witan,Right Winger,Indonesia,1.7,left,2023-01-30,AS Trencin,31-May-26,3480.0,Persija Jakarta,2001-10-08,21.0
+99,Aji Kusuma,Centre-Forward,Indonesia,1.76,right,2023-01-12,Persiba Balikpapan,-,1740.0,Persija Jakarta,1999-01-30,24.0
+2,Anderson,Centre-Back,Brazil,1.83,-,2023-01-26,Alki Oroklini,30-Jun-24,2610.0,Persik Kediri,1993-03-04,30.0
+6,Bayu Otto,Attacking Midfield,Indonesia,1.63,right,2017-01-01,Persedikab Kediri,30-Apr-24,2610.0,Persik Kediri,1999-10-15,23.0
+7,Yusuf Meilana,Left-Back,Indonesia,1.76,both,2017-01-01,Persekat Tegal,30-Apr-24,2610.0,Persik Kediri,1998-05-04,25.0
+8,Arthur Irawan,Defensive Midfield,Indonesia,1.76,right,2021-12-15,PSS Sleman,-,2175.0,Persik Kediri,1993-03-03,30.0
+9,Jefinho,Centre-Forward,Brazil,1.9,right,2023-07-11,Nejmeh SC,-,2610.0,Persik Kediri,1994-05-25,29.0
+10,Renan Silva,Attacking Midfield,Brazil,1.76,left,2022-04-12,Madura United FC,-,4350.0,Persik Kediri,1989-01-02,34.0
+11,Adi Eko,Central Midfield,Indonesia,1.73,right,2018-01-01,Persedikab Kediri,30-Jun-24,2175.0,Persik Kediri,1994-01-18,29.0
+13,Faris Aditama,Left Winger,Indonesia,1.75,left,2019-04-01,Madura FC,30-Jun-24,435.0,Persik Kediri,1988-02-19,35.0
+14,Miftahul Hamdi,Right Winger,Indonesia,1.74,right,2023-01-12,PSS Sleman,-,3045.0,Persik Kediri,1995-12-13,27.0
+16,Hamra Hehanusa,Left-Back,Indonesia,1.78,left,2023-01-09,Persija Jakarta,30-Jun-24,1305.0,Persik Kediri,1999-07-01,24.0
+17,Yohanes Pahabol,Left Winger,Indonesia,1.63,left,2022-05-20,Persipura Jayapura,-,2175.0,Persik Kediri,1992-01-16,31.0
+20,Simen Lyngbø,Right-Back,Philippines,1.77,both,2023-07-01,Without Club,-,2175.0,Persik Kediri,1998-02-18,25.0
+22,Riyatno Abiyoso,Left Winger,Indonesia,1.65,left,2022-04-11,Persela Lamongan,30-Apr-24,3045.0,Persik Kediri,1999-01-18,24.0
+23,Gunawan Dwi Cahyo,Centre-Back,Indonesia,1.82,right,2023-07-01,Bali United FC,-,435.0,Persik Kediri,1989-04-20,34.0
+24,Ahmad Agung,Defensive Midfield,Indonesia,1.8,right,2023-07-01,Bali United FC,-,2610.0,Persik Kediri,1996-03-09,27.0
+27,Fitra Ridwan,Central Midfield,Indonesia,1.69,right,2022-01-01,PSS Sleman,-,1740.0,Persik Kediri,1994-03-16,29.0
+30,Rendy Juliansyah,Attacking Midfield,Indonesia,1.65,right,2022-05-25,Sulut United FC,30-Jun-24,1305.0,Persik Kediri,2002-07-27,20.0
+31,Dikri Yusron,Goalkeeper,Indonesia,1.78,right,2021-03-08,Badak Lampung FC,30-Jun-24,1740.0,Persik Kediri,1995-01-08,28.0
+32,Rohit Chand,Central Midfield,Nepal,1.78,left,2022-05-22,Persija Jakarta,31-May-24,5220.0,Persik Kediri,1992-03-01,31.0
+37,Agil Munawar,Right-Back,Indonesia,1.69,right,2021-04-29,Without Club,30-Apr-24,2610.0,Persik Kediri,1996-06-10,27.0
+39,Jeam Kelly Sroyer,Centre-Forward,Indonesia,1.68,right,2022-01-05,PSBS Biak,-,1740.0,Persik Kediri,2002-12-11,20.0
+54,Supriadi,Right Winger,Indonesia,1.64,right,2023-07-01,Persebaya Surabaya,-,1740.0,Persik Kediri,2002-05-23,21.0
+69,Rangga Widiansyah,Left-Back,Indonesia,1.66,left,2023-01-07,Persija Jakarta,-,870.0,Persik Kediri,2002-04-24,21.0
+77,Flávio Silva,Right Winger,Portugal,1.84,right,2023-01-11,FC Mondercange,-,2610.0,Persik Kediri,1996-04-03,27.0
+78,Mario Yagalo,Centre-Back,Indonesia,1.84,left,2020-01-17,TIRA-Persikabo,31-May-24,2610.0,Persik Kediri,1993-04-21,30.0
+86,Muhammad Taufiq,Defensive Midfield,Indonesia,1.67,right,2022-04-20,Bali United FC,-,174.0,Persik Kediri,1986-11-29,36.0
+96,Kartika Ajie,Goalkeeper,Indonesia,1.82,right,2022-04-14,Arema FC,-,1740.0,Persik Kediri,1996-06-20,27.0
+97,Mohammad Khanafi,Centre-Forward,Indonesia,1.71,-,2023-01-30,Persedikab Kediri,30-Apr-25,870.0,Persik Kediri,1997-11-30,25.0
+4,Syahrul Lasinari,Centre-Back,Indonesia,1.75,right,2022-06-11,FC Bekasi City,2024,2175.0,Persikabo 1973,1999-12-24,23.0
+5,Iman Fathurahman,Defensive Midfield,Indonesia,1.75,right,2023-07-01,Persikab Bandung,-,435.0,Persikabo 1973,1994-05-31,29.0
+6,Jovanni Renaldi,Defensive Midfield,Indonesia,1.78,right,2022-06-11,ASIOP FC,2024,435.0,Persikabo 1973,2003-06-08,20.0
+7,Kaishu Yamazaki,Defensive Midfield,Japan,1.82,right,2023-07-01,Mosta FC,-,1740.0,Persikabo 1973,1997-07-12,25.0
+8,Reza Irfana,Central Midfield,Indonesia,1.76,right,2023-07-01,PSIS Semarang,-,2175.0,Persikabo 1973,1999-07-09,23.0
+9,Komarodin,Right Winger,Indonesia,1.67,right,2023-01-22,PSS Sleman,2024,2175.0,Persikabo 1973,1995-07-19,27.0
+10,Guntur Triaji,Central Midfield,Indonesia,1.68,left,2023-01-30,PSIS Semarang,2024,1740.0,Persikabo 1973,1993-07-30,29.0
+12,Roni Sugeng,Attacking Midfield,Indonesia,1.7,right,2016-01-01,PS TNI Youth,31-Dec-24,3045.0,Persikabo 1973,1998-04-18,25.0
+13,Didik Wahyu,Centre-Back,Indonesia,1.73,right,2018-01-04,PSIR Rembang,2024,2175.0,Persikabo 1973,1994-02-13,29.0
+15,Nikola Kovacevic,Defensive Midfield,Serbia,1.92,right,2023-07-01,Al-Nasr Benghazi,-,2610.0,Persikabo 1973,1994-04-14,29.0
+18,Kemaluddin,Defensive Midfield,Indonesia,1.67,both,2022-06-08,Without Club,2024,1305.0,Persikabo 1973,1999-04-28,24.0
+20,Mochammad Dicky,Goalkeeper,Indonesia,1.85,right,2021-03-16,Borneo FC Samarinda,-,2175.0,Persikabo 1973,1997-06-04,26.0
+22,Munadi,Defensive Midfield,Indonesia,1.69,right,2019-01-01,Lampung Sakti FC (- 2019),2024,435.0,Persikabo 1973,1989-01-25,34.0
+25,Alfin Tuasalamony,Right-Back,Indonesia,1.77,right,2023-01-30,RANS Nusantara FC,30-Jun-24,2610.0,Persikabo 1973,1993-05-17,30.0
+26,Syahrul Trisna,Goalkeeper,Indonesia,1.8,right,2018-01-01,PSS Sleman,-,3045.0,Persikabo 1973,1995-11-26,27.0
+28,Lucky Oktavianto,Right-Back,Indonesia,1.65,right,2022-01-09,PS Mitra Kukar,2024,2175.0,Persikabo 1973,1993-10-05,29.0
+31,Krisna Jhon,Left Winger,Indonesia,1.71,-,2023-01-12,Persikabo 1973 Youth,-,435.0,Persikabo 1973,2006-05-31,17.0
+33,Husna Al Malik,Goalkeeper,Indonesia,1.78,-,2022-07-01,FC Bekasi City,2024,870.0,Persikabo 1973,2003-06-13,20.0
+34,Andy Setyo,Centre-Back,Indonesia,1.8,right,2017-01-01,Pusamania Borneo FC Youth,-,3045.0,Persikabo 1973,1997-09-16,25.0
+58,Frengky Missa,Left-Back,Indonesia,1.68,left,2023-07-01,Persija Jakarta,30-Jun-24,1740.0,Persikabo 1973,2004-02-20,19.0
+69,Manahati Lestusen,Defensive Midfield,Indonesia,1.68,right,2015-07-01,PS Barito Putera,2024,3480.0,Persikabo 1973,1993-12-17,29.0
+77,Rizki Hidayat,Attacking Midfield,Indonesia,1.74,right,2023-07-02,Persijap Jepara,-,870.0,Persikabo 1973,1997-07-03,26.0
+80,Yudha Febrian,Left-Back,Indonesia,1.75,left,2023-07-01,PSGC Ciamis,-,870.0,Persikabo 1973,2002-02-13,21.0
+87,Fathul Ihsan,Centre-Back,Indonesia,1.83,right,2023-07-02,PSIS Semarang,-,435.0,Persikabo 1973,2002-10-26,20.0
+97,Dimas Drajad,Centre-Forward,Indonesia,1.78,right,2016-04-01,PS TNI Youth,28-Feb-27,3915.0,Persikabo 1973,1997-03-30,26.0
+99,Yandi Sofyan,Centre-Forward,Indonesia,1.76,right,2022-05-26,Persikota Tangerang,16-Jul-05,1305.0,Persikabo 1973,1992-05-25,31.0
+1,Muhamad Riyandi,Goalkeeper,Indonesia,1.81,right,2022-05-19,PS Barito Putera,31-May-26,4350.0,Persis Solo,2000-01-03,23.0
+3,Arif Budiyono,Centre-Back,Indonesia,1.75,right,2023-01-30,Persekat Tegal,31-May-24,1305.0,Persis Solo,1993-02-26,30.0
+5,Jaime,Centre-Back,Brazil,1.83,right,2022-06-13,Madura United FC,31-May-24,4785.0,Persis Solo,1990-02-26,33.0
+6,Alfath Faathier,Right Winger,Indonesia,1.67,right,2021-07-01,Persija Jakarta,1-Jul-24,2175.0,Persis Solo,1995-10-06,27.0
+7,Irfan Jauhari,Left Winger,Indonesia,1.73,right,2021-04-17,Bali United FC,31-May-26,3915.0,Persis Solo,2001-01-31,22.0
+8,Taufiq Febriyanto,Defensive Midfield,Indonesia,1.66,right,2022-05-12,Persita Tangerang,31-May-24,2175.0,Persis Solo,1997-02-12,26.0
+9,Fernando Rodríguez,Centre-Forward,Spain,1.81,right,2022-08-01,Johor Darul Ta'zim II,31-Dec-23,3480.0,Persis Solo,1987-05-11,36.0
+10,Alexis Messidoro,Central Midfield,Argentina,1.71,right,2022-06-13,OF Ierapetras,31-May-25,6960.0,Persis Solo,1997-05-13,26.0
+11,Gavin Kwan,Right-Back,Indonesia,1.8,right,2022-05-19,Bali United FC,31-May-24,3045.0,Persis Solo,1996-04-05,27.0
+16,Chrystna Bhagascara,Central Midfield,Indonesia,1.71,right,2022-05-20,Persekat Tegal,20-May-25,3045.0,Persis Solo,1998-06-22,25.0
+18,Arapenta Poerba,Attacking Midfield,Indonesia,1.73,right,2021-04-24,Bali United FC,31-May-24,1305.0,Persis Solo,1998-11-01,24.0
+19,Roni,Centre-Forward,Spain,1.81,right,2023-07-01,Algeciras CF,31-May-24,6960.0,Persis Solo,1993-08-02,29.0
+22,Sutanto Tan,Defensive Midfield,Indonesia,1.77,right,2022-05-12,PSM Makassar,31-May-26,3045.0,Persis Solo,1994-05-04,29.0
+23,Samuel Simanjuntak,Left-Back,Indonesia,1.72,left,2023-07-01,PSM Makassar,31-May-24,1740.0,Persis Solo,1999-07-31,23.0
+25,Moussa Sidibé,Attacking Midfield,Mali,1.7,left,2023-07-01,Johor Darul Ta'zim,31-May-25,4350.0,Persis Solo,1994-11-21,28.0
+26,Rian Miziar,Centre-Back,Indonesia,1.75,right,2021-04-17,Muba Babel United FC,31-May-24,1305.0,Persis Solo,1990-10-13,32.0
+27,Mohammad Kanu,Defensive Midfield,Indonesia,1.75,right,2021-05-01,Muba Babel United FC,31-May-25,3045.0,Persis Solo,2001-04-27,22.0
+30,Eky Taufik,Right-Back,Indonesia,1.78,right,2021-04-29,Persela Lamongan,31-May-24,1740.0,Persis Solo,1991-02-15,32.0
+31,Gianluca Pandeynuwu,Goalkeeper,Indonesia,1.85,right,2022-05-12,Borneo FC Samarinda,31-May-24,3045.0,Persis Solo,1997-11-09,25.0
+36,Althaf Alrizky,Right Winger,Indonesia,1.61,right,2022-06-25,PERSIS Solo Youth,31-May-26,870.0,Persis Solo,2003-01-06,20.0
+37,Faqih Maulana,Left-Back,Indonesia,1.74,left,2022-06-25,PERSIS Solo Youth,31-May-26,435.0,Persis Solo,2004-09-11,18.0
+44,Diego Bardanca,Centre-Back,Philippines,1.9,left,2023-07-01,Buriram United,31-May-25,2610.0,Persis Solo,1993-03-20,30.0
+51,Pancar,Goalkeeper,Indonesia,1.75,right,2021-08-27,Without Club,27-Apr-24,870.0,Persis Solo,2000-04-05,23.0
+55,Erlangga Setyo,Goalkeeper,Indonesia,1.95,right,2023-01-01,PERSIS Solo Youth,31-May-26,435.0,Persis Solo,2003-04-16,20.0
+78,Zanadin Fariz,Central Midfield,Indonesia,1.66,right,2022-06-01,PERSIS Solo Youth,31-May-26,1740.0,Persis Solo,2004-05-31,19.0
+80,Arkhan Kaka,Centre-Forward,Indonesia,1.88,right,2023-01-01,PERSIS Solo Youth,-,870.0,Persis Solo,2007-09-02,15.0
+87,Shulton Fajar,Defensive Midfield,Indonesia,1.68,right,2019-01-01,PSIM Yogyakarta,31-May-24,2175.0,Persis Solo,1994-02-04,29.0
+99,Ramadhan Sananta,Centre-Forward,Indonesia,1.82,right,2023-07-01,PSM Makassar,31-May-25,4350.0,Persis Solo,2002-11-27,20.0
+3,Christian Rontini,Centre-Back,Philippines,1.86,right,2023-07-01,Kelantan FC,31-May-24,1305.0,Persita Tangerang,1999-07-20,23.0
+5,Charisma Fathoni,Centre-Back,Indonesia,1.77,right,2022-05-01,Persita Tangerang Youth,-,870.0,Persita Tangerang,2001-02-25,22.0
+8,Irsyad Maulana,Right Winger,Indonesia,1.77,right,2023-01-15,Arema FC,-,2610.0,Persita Tangerang,1993-09-27,29.0
+9,Ramiro Fergonzi,Centre-Forward,Argentina,1.78,right,2022-06-08,Persipura Jayapura,-,3045.0,Persita Tangerang,1989-05-14,34.0
+10,Ezequiel Vidal,Attacking Midfield,Argentina,1.68,left,2022-06-15,Independiente Rivadavia,-,4785.0,Persita Tangerang,1995-08-02,27.0
+11,Muhammad Toha,Right-Back,Indonesia,1.7,right,2017-04-19,Pro Duta FC Youth (- 2017),-,3480.0,Persita Tangerang,1997-06-30,26.0
+12,Ambrizal Umanailo,Right Winger,Indonesia,1.66,right,2023-07-01,Borneo FC Samarinda,-,1740.0,Persita Tangerang,1996-06-12,27.0
+14,Hanis Saghara,Centre-Forward,Indonesia,1.73,right,2023-01-15,Arema FC,-,3045.0,Persita Tangerang,1999-09-08,23.0
+19,Javlon Guseynov,Centre-Back,Uzbekistan,1.85,both,2023-01-30,Borneo FC Samarinda,30-Jun-25,5655.0,Persita Tangerang,1991-06-24,32.0
+21,Rendy Oscario,Goalkeeper,Indonesia,1.78,left,2023-07-01,Madura United FC,-,2610.0,Persita Tangerang,1998-10-07,24.0
+22,Abu Rizal Maulana,Defensive Midfield,Indonesia,1.65,right,2022-05-14,PSM Makassar,-,1305.0,Persita Tangerang,1994-08-27,28.0
+26,Adhitya Harlan,Goalkeeper,Indonesia,1.77,right,2023-07-01,PS Barito Putera,-,1305.0,Persita Tangerang,1987-06-17,36.0
+29,Sirvi Arvani,Right Winger,Indonesia,1.72,right,2016-01-01,Persepam Pamekasan,-,1305.0,Persita Tangerang,1992-05-11,31.0
+31,Arif Setiawan,Left-Back,Indonesia,1.73,left,2022-06-13,Dewa United FC,-,2175.0,Persita Tangerang,1998-09-04,24.0
+33,Sin-young Bae,Defensive Midfield,"Korea, South",1.8,right,2021-06-16,Suphanburi FC,2026,3915.0,Persita Tangerang,1992-06-11,31.0
+66,Mario Jardel,Centre-Back,Indonesia,1.65,right,2022-05-10,PERSIB Bandung,-,1305.0,Persita Tangerang,2000-11-07,22.0
+78,Muhamad Darmawan,Goalkeeper,Indonesia,1.82,right,2022-01-01,Persita Tangerang Youth,-,435.0,Persita Tangerang,2002-03-16,21.0
+88,Fahreza Sudin,Defensive Midfield,Indonesia,1.68,right,2022-06-10,Belitong FC,-,1740.0,Persita Tangerang,2000-08-12,22.0
+90,Jack Brown,Attacking Midfield,Indonesia,1.75,right,2021-12-28,Lincoln City U18,-,435.0,Persita Tangerang,2001-11-02,21.0
+92,Mateo Bustos,Central Midfield,Argentina,1.69,left,2023-07-01,Without Club,-,1740.0,Persita Tangerang,1992-10-09,30.0
+94,Heri Susanto,Left Winger,Indonesia,1.7,left,2022-05-13,PERSIS Solo,-,2175.0,Persita Tangerang,1994-07-15,28.0
+1,Norhalid,Goalkeeper,Indonesia,1.8,-,2021-06-06,Persibangga Purbalingga,31-May-24,870.0,PS Barito Putra,1997-06-14,26.0
+2,Bagas Kaffa,Right-Back,Indonesia,1.7,right,2020-01-01,PS Barito Putera Youth,1-Apr-26,3915.0,PS Barito Putra,2002-01-16,21.0
+3,Yuswanto Aditya,Centre-Back,Indonesia,1.79,right,2020-01-01,PS Barito Putera Youth,31-May-24,870.0,PS Barito Putra,2000-05-10,23.0
+6,Carli de Murga,Centre-Back,Philippines,1.8,right,2023-07-01,Kelantan FC,1-Jun-24,1740.0,PS Barito Putra,1988-11-30,34.0
+7,Makan Konate,Attacking Midfield,Mali,1.78,right,2023-07-01,RANS Nusantara FC,-,3915.0,PS Barito Putra,1991-11-10,31.0
+8,Chris Rumbiak,Right Winger,Indonesia,1.63,right,2023-01-01,Perserang Serang,31-May-24,870.0,PS Barito Putra,2001-06-24,22.0
+11,Gustavo Tocantins,Centre-Forward,Brazil,1.79,both,2023-01-07,Persikabo 1973,2024,3480.0,PS Barito Putra,1996-01-11,27.0
+13,Bayu Pradana,Defensive Midfield,Indonesia,1.8,right,2019-01-22,PS Mitra Kukar,31-May-25,3045.0,PS Barito Putra,1991-04-19,32.0
+14,Nazar Nurzaidin,Right-Back,Indonesia,1.72,right,2016-07-01,PS Barito Putera Youth,-,1740.0,PS Barito Putra,1995-05-24,28.0
+15,Rafi Syarahil,Defensive Midfield,Indonesia,1.67,right,2018-01-01,PS Barito Putera Youth,-,1740.0,PS Barito Putra,2000-11-15,22.0
+16,Alexandro Kamuru,Left-Back,Indonesia,1.7,left,2021-03-04,PS Barito Putera Youth,-,435.0,PS Barito Putra,2005-08-19,17.0
+17,Ferdiansyah,Defensive Midfield,Indonesia,1.67,right,2019-01-01,PS Barito Putera Youth,31-May-24,1305.0,PS Barito Putra,2000-04-24,23.0
+18,Afdal Yusra,Centre-Forward,Indonesia,1.78,right,2022-05-23,Sulut United FC,-,1305.0,PS Barito Putra,1998-05-04,25.0
+19,Ilham Mahendra,Right-Back,Indonesia,1.74,right,2023-07-01,Persiba Balikpapan,-,1305.0,PS Barito Putra,1996-09-20,26.0
+20,Bagus Kahfi,Centre-Forward,Indonesia,1.69,right,2023-07-01,Asteras Tripolis,-,870.0,PS Barito Putra,2002-01-16,21.0
+22,Alif Jaelani,Attacking Midfield,Indonesia,1.72,right,2021-03-04,PS Barito Putera Youth,-,870.0,PS Barito Putra,2002-07-05,21.0
+23,Hasim Kipuw,Centre-Back,Indonesia,1.8,right,2023-07-01,Madura United FC,-,870.0,PS Barito Putra,1988-05-09,35.0
+24,Aditiya Daffa,Central Midfield,Indonesia,1.7,right,2021-03-04,PS Barito Putera Youth,-,435.0,PS Barito Putra,2004-01-11,19.0
+26,Rizky Pora,Left Winger,Indonesia,1.71,left,2016-04-01,Pusamania Borneo FC,31-Dec-23,2610.0,PS Barito Putra,1989-11-22,33.0
+28,Buyung Ismu Lessy,Attacking Midfield,Indonesia,1.72,both,2021-08-30,Without Club,31-May-24,1740.0,PS Barito Putra,1999-05-08,24.0
+31,Murilo,Centre-Forward,Brazil,1.8,right,2023-07-01,Virtus Francavilla Calcio,-,3480.0,PS Barito Putra,1995-03-08,28.0
+32,Ega Rizky,Goalkeeper,Indonesia,1.76,right,2023-07-01,PSS Sleman,-,2175.0,PS Barito Putra,1992-08-23,30.0
+36,Renan Alves,Centre-Back,Brazil,1.91,right,2022-01-11,Kedah Darul Aman FC,31-Dec-23,5220.0,PS Barito Putra,1992-12-17,30.0
+70,Patrick Womsiwor,Attacking Midfield,Indonesia,1.7,left,2023-01-18,Persipura Jayapura,-,870.0,PS Barito Putra,2001-05-26,22.0
+81,Dhika Bayangkara,Goalkeeper,Indonesia,1.8,right,2023-07-01,Persita Tangerang,-,2175.0,PS Barito Putra,1991-04-29,32.0
+85,Muhamad Firly,Centre-Back,Indonesia,1.85,right,2020-01-27,PS Barito Putera Youth,-,1305.0,PS Barito Putra,1999-07-16,23.0
+92,Frendi Saputra,Left-Back,Indonesia,1.73,right,2023-07-01,Dewa United FC,-,3045.0,PS Barito Putra,1992-01-27,31.0
+95,Mike Ott,Attacking Midfield,Philippines,1.67,both,2022-08-01,United City FC,31-May-24,4350.0,PS Barito Putra,1995-03-02,28.0
+97,Mario Londok,Goalkeeper,Indonesia,1.8,right,2023-07-01,PERSIB Bandung,-,435.0,PS Barito Putra,1997-11-14,25.0
+98,Eksel Runtukahu,Centre-Forward,Indonesia,1.75,right,2023-07-01,Sulut United FC,-,1740.0,PS Barito Putra,1998-09-02,24.0
+99,Rahmat Beri Santoso,Centre-Forward,Indonesia,1.73,right,2022-01-09,PS Barito Putera Youth,31-May-24,870.0,PS Barito Putra,2004-02-02,19.0
+4,Sabillah,Centre-Back,Indonesia,1.82,right,2023-07-01,Persik Kediri,-,2610.0,PSIS Semarang,1994-05-10,29.0
+5,Wahyu Prasetyo,Centre-Back,Indonesia,1.8,right,2020-01-16,Cilegon United FC,31-May-24,3480.0,PSIS Semarang,1998-03-21,25.0
+7,Vitinho,Right Winger,Brazil,1.74,both,2023-01-29,Vitória Setúbal FC,30-Jun-24,2175.0,PSIS Semarang,1993-05-10,30.0
+10,Taisei Marukawa,Left Winger,Japan,1.69,right,2022-04-01,Persebaya Surabaya,31-May-25,6525.0,PSIS Semarang,1997-01-30,26.0
+11,Gian Zola,Attacking Midfield,Indonesia,1.65,left,2023-07-01,Arema FC,-,3045.0,PSIS Semarang,1998-08-05,24.0
+13,Bayu Fiqri,Right-Back,Indonesia,1.76,right,2023-07-01,Persib Bandung,-,2175.0,PSIS Semarang,2001-08-10,21.0
+14,Riyan Ardiansyah,Right Winger,Indonesia,1.74,right,2019-01-01,Persiwa Wamena,31-May-26,2175.0,PSIS Semarang,1996-05-14,27.0
+19,Alfeandra Dewangga,Centre-Back,Indonesia,1.79,left,2020-01-10,PSIS Semarang Youth,30-Jun-25,3915.0,PSIS Semarang,2001-06-28,22.0
+20,Brandon Scheunemann,Centre-Back,Indonesia,1.86,right,2023-01-15,PERSIS Solo Youth,-,1305.0,PSIS Semarang,2005-03-09,18.0
+21,Boubakary Diarra,Defensive Midfield,France,1.87,right,2023-07-01,Mosta FC,-,4350.0,PSIS Semarang,1993-08-30,29.0
+23,Wawan Febrianto,Left Winger,Indonesia,1.67,left,2022-05-11,Borneo FC Samarinda,-,3045.0,PSIS Semarang,1994-02-23,29.0
+29,David Maulana,Right Winger,Indonesia,1.74,both,2019-01-21,PS Mitra Kukar,-,1740.0,PSIS Semarang,1996-09-02,26.0
+30,Adi Satryo,Goalkeeper,Indonesia,1.79,right,2023-01-02,Persik Kediri,-,3045.0,PSIS Semarang,2001-07-07,21.0
+46,Fredyan Wahyu,Right-Back,Indonesia,1.66,right,2019-05-09,PSMS Medan,31-May-24,3915.0,PSIS Semarang,1998-04-11,25.0
+51,Syaiful,Goalkeeper,Indonesia,1.75,right,2023-07-01,Dewa United FC,-,1305.0,PSIS Semarang,1993-06-11,30.0
+52,Rizky Darmawan,Goalkeeper,Indonesia,1.8,left,2023-07-01,Persita Tangerang,-,1305.0,PSIS Semarang,1994-02-05,29.0
+56,Ridho Syuhada,Attacking Midfield,Indonesia,1.71,right,2023-01-01,PSIS Semarang Youth,-,1305.0,PSIS Semarang,2004-06-18,19.0
+69,Delvin Rumbino,Central Midfield,Indonesia,1.75,right,2022-05-10,PERSIS Solo,31-May-24,2175.0,PSIS Semarang,1995-06-03,28.0
+71,Luthfi Kamal,Defensive Midfield,Indonesia,1.7,right,2023-01-03,PS Barito Putera,-,3045.0,PSIS Semarang,1999-01-20,24.0
+90,Carlos Fortes,Centre-Forward,Portugal,1.88,right,2022-04-01,Arema FC,30-Jun-24,5220.0,PSIS Semarang,1994-11-09,28.0
+93,Lucão,Centre-Back,Brazil,1.96,right,2023-07-01,Persikabo 1973,-,3915.0,PSIS Semarang,1993-07-10,29.0
+99,Rizky Dwi,Centre-Forward,Indonesia,1.84,right,2023-07-01,Sulut United FC,-,870.0,PSIS Semarang,1999-04-09,24.0
+1,Ardiansyah,Goalkeeper,Indonesia,1.87,right,2021-06-09,PSM Makassar Youth,2025,435.0,PSM Makassar,2003-03-28,20.0
+2,Kike Linares,Centre-Back,Philippines,1.87,right,2023-07-01,Lamphun Warriors,2024,2175.0,PSM Makassar,1999-07-12,23.0
+4,Yuran Fernandes,Centre-Back,Cape Verde,1.98,left,2022-06-04,SC União Torreense,2026,5655.0,PSM Makassar,1994-10-19,28.0
+5,Erwin Gutawa,Centre-Back,Indonesia,1.75,right,2021-03-01,Sriwijaya FC,2024,1740.0,PSM Makassar,1992-07-06,30.0
+7,Victor Dethan,Right Winger,Indonesia,1.74,right,2023-01-01,PSM Makassar Youth,2024,1305.0,PSM Makassar,2004-07-11,18.0
+8,Ananda Raehan,Defensive Midfield,Indonesia,1.75,right,2022-06-01,PSM Makassar Youth,2026,1740.0,PSM Makassar,2003-12-17,19.0
+9,Donald Bissa,Centre-Forward,Indonesia,1.85,right,2022-08-01,Without Club,2024,1305.0,PSM Makassar,1991-12-13,31.0
+10,Everton,Centre-Forward,Brazil,1.86,right,2022-05-18,Hidd SCC,2024,3915.0,PSM Makassar,1993-07-03,30.0
+11,Dzaky Asraf,Right Winger,Indonesia,1.7,right,2022-06-01,PSM Makassar Youth,2026,2175.0,PSM Makassar,2003-02-06,20.0
+14,Sulthan Zaky,Centre-Back,Indonesia,1.86,right,2023-01-01,PSM Makassar Youth,-,870.0,PSM Makassar,2006-03-23,17.0
+15,Ricky Pratama,Centre-Forward,Indonesia,1.78,right,2022-07-01,PSM Makassar Youth,-,870.0,PSM Makassar,2003-05-06,20.0
+16,Sandy Ferizal,Right-Back,Indonesia,1.78,right,2023-07-01,Persela Lamongan,-,1740.0,PSM Makassar,1999-05-17,24.0
+17,Rasyid Bakri,Central Midfield,Indonesia,1.64,right,2011-07-01,PSM Makassar Youth,2024,2610.0,PSM Makassar,1991-01-17,32.0
+18,Andy Harjito,Centre-Forward,Indonesia,1.8,right,2023-07-01,Borneo FC Samarinda,1-Jun-24,1305.0,PSM Makassar,2001-09-27,21.0
+19,Rizky Pellu,Central Midfield,Indonesia,1.77,right,2023-05-24,Bali United FC,2025,2175.0,PSM Makassar,1992-06-26,31.0
+21,Raka Okta,Goalkeeper,Indonesia,1.76,-,2023-01-01,PSS Sleman Youth,2025,435.0,PSM Makassar,2004-10-01,18.0
+22,Yakob Sayuri,Right Winger,Indonesia,1.68,right,2020-02-01,PS Barito Putera,2024,3915.0,PSM Makassar,1997-09-22,25.0
+23,Yance Sayuri,Left-Back,Indonesia,1.65,left,2021-03-20,Persemi Mimika,2024,3480.0,PSM Makassar,1997-09-22,25.0
+24,Rizky Eka Pratama,Right Winger,Indonesia,1.71,right,2019-03-01,PSM Makassar Youth,2026,3045.0,PSM Makassar,1999-12-24,23.0
+26,Harlan Suardi,Goalkeeper,Indonesia,1.75,right,2022-06-15,Persijap Jepara,2025,1305.0,PSM Makassar,1999-01-26,24.0
+27,Safrudin Tahar,Right-Back,Indonesia,1.72,right,2022-05-14,Borneo FC Samarinda,2024,2610.0,PSM Makassar,1993-12-13,29.0
+30,Reza Pratama,Goalkeeper,Indonesia,1.88,right,2019-01-01,PSM Makassar Youth,2026,3045.0,PSM Makassar,2000-05-18,23.0
+39,Kenzo Nambu,Attacking Midfield,Japan,1.73,right,2022-06-06,Rayong FC,30-Jun-24,3480.0,PSM Makassar,1992-08-22,30.0
+45,Akbar Tanjung,Defensive Midfield,Indonesia,1.86,right,2022-05-31,PSIM Yogyakarta,2024,3045.0,PSM Makassar,1993-05-16,30.0
+48,Muhammad Arfan,Defensive Midfield,Indonesia,1.7,right,2017-12-01,PSM Makassar Youth,2026,3915.0,PSM Makassar,1998-01-22,25.0
+71,Mufli Hidayat,Centre-Forward,Indonesia,1.72,right,2022-12-01,PSM Makassar Youth,-,870.0,PSM Makassar,2005-08-07,17.0
+74,Edgard Amping,Left-Back,Indonesia,1.68,left,2022-01-01,PSM Makassar Youth,31-Dec-25,1305.0,PSM Makassar,2003-06-09,20.0
+80,Wiljan Pluim,Attacking Midfield,Netherlands,1.94,right,2016-08-01,Becamex Binh Duong FC,31-Dec-25,5220.0,PSM Makassar,1989-01-04,34.0
+1,Anthony Pinthus,Goalkeeper,Philippines,1.82,right,2023-07-01,Without Club,-,2610.0,PSS Sleman,1998-04-04,25.0
+3,Muhammad Fariz,Right-Back,Indonesia,1.6,right,2022-07-01,PSS Sleman Youth,-,435.0,PSS Sleman,2004-09-02,18.0
+4,Nurdiansyah,Centre-Back,Indonesia,1.76,left,2023-07-01,Borneo FC Samarinda,-,2175.0,PSS Sleman,1998-12-18,24.0
+5,Thales,Centre-Back,Brazil,1.88,right,2023-07-01,Centro Sportivo Alagoano (AL),-,6090.0,PSS Sleman,1993-04-06,30.0
+6,Jihad Ayoub,Defensive Midfield,Lebanon,1.87,right,2022-07-06,Al-Ansar FC,2024,4785.0,PSS Sleman,1995-03-30,28.0
+7,Kei Sano,Left Winger,Japan,1.72,right,2023-07-01,Sirens FC,-,3915.0,PSS Sleman,1992-04-03,31.0
+8,Esteban Vizcarra,Left Winger,Indonesia,1.75,both,2023-07-01,Madura United FC,-,870.0,PSS Sleman,1986-04-11,37.0
+9,Saddam Gaffar,Centre-Forward,Indonesia,1.87,left,2019-08-29,PSS Sleman Youth,30-Apr-24,2610.0,PSS Sleman,2001-09-24,21.0
+10,Yevgen Bokhashvili,Centre-Forward,Ukraine,1.85,both,2023-01-09,SC Otelul Galati,-,3045.0,PSS Sleman,1993-01-05,30.0
+11,Ricky Cawor,Centre-Forward,Indonesia,1.65,right,2023-01-19,Persija Jakarta,-,2175.0,PSS Sleman,1998-01-26,25.0
+12,Muhammad Ridwan,Goalkeeper,Indonesia,1.79,right,2022-04-23,Madura United FC,-,2610.0,PSS Sleman,1991-03-26,32.0
+17,Riki Dwi Saputro,Centre-Forward,Indonesia,1.75,right,2022-04-15,Persekat Tegal,-,2175.0,PSS Sleman,1995-02-20,28.0
+20,Haris Tuharea,Left Winger,Indonesia,1.72,right,2023-01-19,Madura United FC,-,1740.0,PSS Sleman,1994-11-22,28.0
+21,Dimas Fani,Goalkeeper,Indonesia,1.75,right,2020-08-20,PSS Sleman Youth,31-Mar-23,435.0,PSS Sleman,2000-05-18,23.0
+22,Ibrahim Sanjaya,Right-Back,Indonesia,1.78,right,2022-04-23,Persik Kediri,-,2175.0,PSS Sleman,1997-08-26,25.0
+23,Kim Kurniawan,Central Midfield,Indonesia,1.68,both,2021-03-01,PERSIB Bandung,-,2610.0,PSS Sleman,1990-03-23,33.0
+25,Derry Rachman,Left-Back,Indonesia,1.6,left,2019-01-27,PS Mojokerto Putra,-,2175.0,PSS Sleman,1994-12-15,28.0
+27,Irkham Mila,Right Winger,Indonesia,1.68,right,2018-01-15,PERSIS Solo,-,2610.0,PSS Sleman,1998-05-02,25.0
+30,Kevin Gomes,Left-Back,Indonesia,1.82,left,2023-01-20,PERSIS Solo,-,2175.0,PSS Sleman,1998-06-24,25.0
+32,Jonathan Bustos,Attacking Midfield,Argentina,1.74,left,2023-07-01,Borneo FC Samarinda,-,6090.0,PSS Sleman,1994-06-29,29.0
+33,Wahyudi Hamisi,Defensive Midfield,Indonesia,1.66,right,2023-07-01,Borneo FC Samarinda,-,1305.0,PSS Sleman,1997-07-28,25.0
+38,Nyoman Ansanay,Right-Back,Indonesia,1.74,right,2023-07-01,Persewar Waropen,-,435.0,PSS Sleman,2001-07-08,21.0
+46,Todd Ferre,Attacking Midfield,Indonesia,1.58,right,2022-05-11,Persipura Jayapura,-,3045.0,PSS Sleman,1999-03-15,24.0
+78,Ifan Nanda,Centre-Back,Indonesia,1.81,right,2020-08-29,PSS Sleman Youth,30-Jun-24,1305.0,PSS Sleman,2001-03-29,22.0
+80,Hokky Caraka,Centre-Forward,Indonesia,1.86,right,2022-05-10,PSS Sleman Youth,-,3480.0,PSS Sleman,2004-08-21,18.0
+88,Leonard Tupamahu,Centre-Back,Indonesia,1.79,right,2023-07-01,Bali United FC,-,174.0,PSS Sleman,1983-07-09,39.0
+92,Dave Mustaine,Central Midfield,Indonesia,1.8,right,2021-12-21,Arema FC,-,1740.0,PSS Sleman,1992-11-16,30.0
+96,Abduh Lestaluhu,Left-Back,Indonesia,1.7,left,2023-07-01,PERSIS Solo,-,3480.0,PSS Sleman,1993-10-16,29.0
+2,Muhammad Syukron,Centre-Back,Indonesia,1.83,right,2023-07-01,Persipa Pati,-,435.0,RANS Nusantara FC,1997-02-24,26.0
+3,Ângelo,Centre-Back,Portugal,1.89,right,2023-07-01,SC Covilhã,-,3480.0,RANS Nusantara FC,1993-07-03,30.0
+5,Dallen Doke,Right-Back,Indonesia,1.72,right,2023-07-01,PSM Makassar,-,1740.0,RANS Nusantara FC,1998-01-02,25.0
+8,Antoni Nugroho,Right Winger,Indonesia,1.68,both,2023-07-01,Bhayangkara FC,-,2175.0,RANS Nusantara FC,1994-02-25,29.0
+9,Kenshiro Daniels,Centre-Forward,Philippines,1.77,right,2023-07-01,Sukhothai FC,-,3480.0,RANS Nusantara FC,1995-01-13,28.0
+13,Samsul Arifin,Left-Back,Indonesia,1.63,left,2023-07-01,Bhayangkara FC,-,1305.0,RANS Nusantara FC,1992-01-03,31.0
+17,Paulo Sitanggang,Central Midfield,Indonesia,1.68,right,2023-07-01,Borneo FC Samarinda,-,2610.0,RANS Nusantara FC,1995-10-17,27.0
+19,Rabbani Tasnim,Centre-Forward,Indonesia,1.85,right,2023-07-01,Borneo FC Samarinda,30-Jun-24,2175.0,RANS Nusantara FC,2003-05-26,20.0
+20,Andi Irfan,Left Winger,Indonesia,1.61,right,2023-07-01,Sada Sumut FC,-,1740.0,RANS Nusantara FC,2001-05-25,22.0
+22,Marckho Merauje,Right-Back,Indonesia,1.78,right,2023-07-01,PSS Sleman,-,2610.0,RANS Nusantara FC,1994-12-04,28.0
+27,Meru Kimura,Centre-Back,Indonesia,1.87,left,2022-03-01,PSKC Cimahi,1-Mar-25,870.0,RANS Nusantara FC,2001-06-27,22.0
+28,Arif Satria,Centre-Back,Indonesia,1.83,right,2022-04-22,Persebaya Surabaya,2024,3480.0,RANS Nusantara FC,1995-09-17,27.0
+34,Try Hamdani,Goalkeeper,Indonesia,1.82,left,2023-07-01,PSS Sleman,-,1305.0,RANS Nusantara FC,1994-01-03,29.0
+36,Ilhamsyah,Defensive Midfield,Indonesia,1.69,right,2023-07-01,Borneo FC Samarinda,-,870.0,RANS Nusantara FC,1999-07-02,24.0
+45,Taufik Hidayat,Left-Back,Indonesia,1.67,right,2023-07-01,PSIS Semarang,-,2175.0,RANS Nusantara FC,1993-03-20,30.0
+57,Fikri Ntong,Goalkeeper,Indonesia,1.8,right,2022-04-15,RANS Nusantara FC Youth,-,174.0,RANS Nusantara FC,2003-05-28,20.0
+64,Wahyudi,Goalkeeper,Indonesia,1.8,right,2021-05-08,Badak Lampung FC,31-Mar-24,1305.0,RANS Nusantara FC,1998-08-24,24.0
+66,Mitsuru Maruoka,Central Midfield,Japan,1.7,right,2022-07-10,Gimpo FC,2024,3480.0,RANS Nusantara FC,1996-01-06,27.0
+78,Muhammad Irman,Centre-Forward,Indonesia,1.7,right,2023-07-01,PSCS Cilacap,-,870.0,RANS Nusantara FC,1999-05-21,24.0
+88,Fadilla Akbar,Defensive Midfield,Indonesia,1.73,left,2021-04-14,Without Club,2024,2610.0,RANS Nusantara FC,2001-09-08,21.0
+93,Erwin Ramdani,Left Winger,Indonesia,1.69,left,2023-07-01,PERSIB Bandung,-,2175.0,RANS Nusantara FC,1993-03-11,30.0
+97,Hilmansyah,Goalkeeper,Indonesia,1.83,right,2022-04-20,PSM Makassar,2024,2610.0,RANS Nusantara FC,1997-05-25,26.0
+99,KH Yudo,Left Winger,Indonesia,1.73,both,2023-07-01,Arema FC,-,2175.0,RANS Nusantara FC,1993-07-16,29.0

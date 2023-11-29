@@ -1,0 +1,569 @@
+﻿kit_number,player_name,position,Date of birth / Age,nationality,height,foot,joined,signed_from,contract,market_value,club_name
+3,Bayu Aji,Centre-Back,,Indonesia,"1,78m",,21-Jan-23,NZR Sumbersari FC,-,€10k,Arema FC
+4,Syaeful Anwar,Centre-Back,"Dec 1, 1994 (28)",Indonesia,"1,84m",right,27-Apr-22,Persita Tangerang,2024,€125k,Arema FC
+5,Bagas Adi,Centre-Back,"Mar 8, 1997 (26)",Indonesia,"1,76m",left,7-Jan-20,Bhayangkara FC,-,€200k,Arema FC
+7,Ariel Lucero,Attacking Midfield,"Apr 16, 1999 (24)",Argentina,"1,70m",left,1-Jul-23,Club Atlético All Boys,-,€250k,Arema FC
+8,Arkhan Fikri,Attacking Midfield,"Dec 28, 2004 (18)",Indonesia,"1,65m",right,15-Jun-22,PS Kwarta Deli Serdang,-,€150k,Arema FC
+9,Evan Dimas,Central Midfield,"Mar 13, 1995 (28)",Indonesia,"1,67m",both,1-Apr-22,Bhayangkara FC,-,€250k,Arema FC
+10,Muhammad Rafli,Attacking Midfield,"Nov 24, 1998 (24)",Indonesia,"1,80m",both,1-Jul-16,ASIFA,-,€225k,Arema FC
+11,Charles Lokolingoy,Centre-Forward,"Mar 2, 1997 (26)",Australia,"1,88m",right,1-Jul-23,Zebbug Rangers FC,-,€300k,Arema FC
+12,Rifad Marasabessy,Right-Back,"Jul 7, 1999 (23)",Indonesia,"1,68m",right,1-Jul-23,Borneo FC Samarinda,-,€175k,Arema FC
+14,Jayus Hariono,Defensive Midfield,"Jan 27, 1997 (26)",Indonesia,"1,74m",right,1-Jan-18,Persekam Metro FC,-,€175k,Arema FC
+15,Ichaka Diarra,Centre-Back,"Jan 18, 1995 (28)",Mali,"1,92m",left,1-Jul-23,Al-Ansar FC,-,€275k,Arema FC
+17,Ginanjar,Centre-Forward,"Nov 20, 2003 (19)",Indonesia,"1,79m",right,1-Jul-23,Persija Jakarta,30-Jun-24,€100k,Arema FC
+18,Julian Schwarzer,Goalkeeper,"Oct 26, 1999 (23)",Philippines,"1,81m",,20-Jul-23,Kuching City,-,€100k,Arema FC
+19,Achmad Syarif,Attacking Midfield,"Apr 24, 2003 (20)",Indonesia,"1,82m",right,1-Jul-23,Persija Jakarta,30-Jun-24,€50k,Arema FC
+20,Samuel Balinsa,Central Midfield,"Feb 26, 1994 (29)",Indonesia,"1,79m",left,1-Jul-23,Persewar Waropen,-,-,Arema FC
+21,Flabio Soares,Centre-Forward,"Feb 2, 1999 (24)",Indonesia,-,right,1-Jul-23,Malut United FC,-,-,Arema FC
+22,Dicki Agung,Goalkeeper,"Dec 16, 1998 (24)",Indonesia,"1,80m",right,1-Jul-23,Deltras FC,-,-,Arema FC
+23,Teguh Amiruddin,Goalkeeper,"Aug 13, 1993 (29)",Indonesia,"1,83m",right,21-Jan-20,TIRA-Persikabo,-,€75k,Arema FC
+25,Asyraq Gufron,Centre-Back,"Feb 9, 1996 (27)",Indonesia,"1,75m",right,1-Jul-23,Bhayangkara FC,-,€100k,Arema FC
+26,Achmad Figo,Right-Back,"Dec 25, 2001 (21)",Indonesia,"1,85m",both,1-Aug-21,Arema FC Youth,31-Dec-23,€125k,Arema FC
+27,Dedik Setiawan,Centre-Forward,"Jun 27, 1994 (29)",Indonesia,"1,77m",right,25-Sep-16,Persekam Metro FC,-,€200k,Arema FC
+28,Seiya Da Costa,Defensive Midfield,"Sep 30, 2001 (21)",Indonesia,"1,77m",right,12-Jul-23,Arema FC Youth,-,€50k,Arema FC
+29,Adixi Lenzivio,Goalkeeper,"Sep 29, 1992 (30)",Indonesia,"1,72m",right,1-Jul-23,PSMS Medan,-,€75k,Arema FC
+32,Charles Almeida,Defensive Midfield,"Apr 10, 1995 (28)",Brazil,"1,84m",right,1-Jul-23,Manaus Futebol Clube,-,-,Arema FC
+41,Dendi Santoso,Right Winger,"May 16, 1990 (33)",Indonesia,"1,72m",both,1-Jul-13,Arema Indonesia,-,€125k,Arema FC
+58,Mikael Tata,Left-Back,"May 10, 2004 (19)",Indonesia,"1,74m",left,1-Jul-23,Waanal Brothers FC,-,€50k,Arema FC
+66,Gufroni Al Maruf,Right Winger,"Jul 19, 1997 (26)",Indonesia,"1,72m",right,13-Jul-23,Dewa United,2024,€125k,Arema FC
+70,Gustavo,Centre-Forward,"Jul 25, 1996 (26)",Brazil,"1,85m",right,1-Jul-23,Al-Nasr SC (Kuwait),-,-,Arema FC
+79,Hamdi Sula,Right-Back,"Nov 3, 1997 (25)",Indonesia,"1,70m",right,1-Jul-23,PSMS Medan,-,€75k,Arema FC
+86,Greg Nwokolo,Left Winger,"Jan 3, 1986 (37)",Indonesia,"1,75m",right,20-Jul-23,Without Club,-,€100k,Arema FC
+87,Johan Alfarizi,Left-Back,"May 25, 1990 (33)",Indonesia,"1,73m",left,1-Jul-13,Arema Indonesia,-,€175k,Arema FC
+97,Samsudin,Right Winger,"Mar 27, 1997 (26)",Indonesia,"1,67m",right,1-Jul-23,Deltras FC,-,€100k,Arema FC
+1,Adilson Maringá,Goalkeeper,"Aug 22, 1990 (32)",Brazil,"1,94m",right,1-Jul-23,Arema FC,-,€300k,Bali United FC
+2,Ardi Idrus,Right-Back,"Jan 22, 1993 (30)",Indonesia,"1,65m",both,10-May-22,PERSIB Bandung,-,€175k,Bali United FC
+4,Elias Dolah,Centre-Back,"Apr 24, 1993 (30)",Thailand,"1,96m",right,1-Jul-23,Port FC,31-May-24,€250k,Bali United FC
+5,Haudi Abdillah,Centre-Back,"Apr 20, 1993 (30)",Indonesia,"1,80m",right,12-Jan-19,PSIS Semarang,-,€175k,Bali United FC
+7,Sidik Saimima,Central Midfield,"Jun 4, 1997 (26)",Indonesia,"1,65m",right,6-Jan-20,PSS Sleman,2024,€125k,Bali United FC
+9,Ilija Spasojević,Centre-Forward,"Sep 11, 1987 (35)",Indonesia,"1,87m",both,13-Dec-17,Bhayangkara FC,31-Dec-23,€300k,Bali United FC
+10,Éber Bessa,Attacking Midfield,"Mar 21, 1992 (31)",Brazil,"1,66m",right,8-Sep-21,CD Nacional,-,€350k,Bali United FC
+11,Yabes Roni,Left Winger,"Feb 6, 1995 (28)",Indonesia,"1,68m",both,13-Jan-15,Without Club,-,€175k,Bali United FC
+13,Rakasurya Handika,Goalkeeper,"Jun 13, 2000 (23)",Indonesia,"1,80m",right,1-Jan-19,Bali United FC Youth,-,€50k,Bali United FC
+14,Fadil Sausu,Central Midfield,"Apr 19, 1985 (38)",Indonesia,"1,74m",left,13-Jan-15,Persisam Putra Samarinda (- 2014),2024,€50k,Bali United FC
+17,Taufik Hidayat,Centre-Forward,"Dec 16, 1999 (23)",Indonesia,"1,79m",right,1-Jul-23,Madura United FC,-,€125k,Bali United FC
+18,Kadek Agung,Attacking Midfield,"Jun 25, 1998 (25)",Indonesia,"1,70m",right,18-Jan-18,Bali United FC Youth,-,€175k,Bali United FC
+22,Novri Setiawan,Right-Back,"Nov 11, 1993 (29)",Indonesia,"1,73m",both,10-May-22,Persija Jakarta,-,€175k,Bali United FC
+23,Ryuji Utomo,Centre-Back,"Jul 1, 1995 (28)",Indonesia,"1,83m",right,11-Jan-23,Persija Jakarta,-,€225k,Bali United FC
+24,Ricky Fajrin,Left-Back,"Sep 6, 1995 (27)",Indonesia,"1,77m",left,13-Jan-15,Without Club,-,€275k,Bali United FC
+26,Komang Tri Arta,Centre-Back,"Sep 30, 2001 (21)",Indonesia,"1,81m",right,23-Jul-20,Bali United FC Youth,31-Dec-23,€100k,Bali United FC
+33,Made Andhika,Right-Back,"Jul 12, 1996 (26)",Indonesia,"1,73m",right,28-Jul-16,Bali United FC Youth,2024,€175k,Bali United FC
+37,Privat Mbarga,Right Winger,"Jan 7, 1992 (31)",Cameroon,"1,71m",right,24-Dec-21,Svay Rieng,-,€350k,Bali United FC
+41,Irfan Jaya,Right Winger,"May 1, 1996 (27)",Indonesia,"1,62m",right,6-Jan-22,PSS Sleman,-,€225k,Bali United FC
+44,Kadek Arel,Centre-Back,"Apr 4, 2005 (18)",Indonesia,"1,85m",right,1-Jan-23,Bali United FC Youth,-,€25k,Bali United FC
+47,Rahmat Arjuna,Right Winger,"Apr 30, 2004 (19)",Indonesia,"1,71m",,1-Dec-22,Bali United FC Youth,-,€25k,Bali United FC
+55,Made Tito,Defensive Midfield,"Jul 31, 2003 (19)",Indonesia,"1,66m",right,1-Jul-22,Bali United FC Youth,-,€75k,Bali United FC
+66,Gede Agus,Left-Back,"Jun 1, 2002 (21)",Indonesia,"1,75m",left,24-Feb-21,Bali United FC Youth,-,€50k,Bali United FC
+67,Komang Aryantara,Goalkeeper,"Apr 1, 2005 (18)",Indonesia,"1,81m",right,25-Apr-22,Bali United FC Youth,-,€10k,Bali United FC
+72,Nyoman Adi,Attack,,Indonesia,"1,78m",,1-Jul-23,Bali United FC Youth,-,-,Bali United FC
+73,Jajang Mulyana,Centre-Back,"Oct 23, 1988 (34)",Indonesia,"1,82m",right,9-May-22,Bhayangkara FC,2024,€75k,Bali United FC
+74,Mohammed Rashid,Defensive Midfield,"Jul 3, 1995 (28)",Palestine,"1,83m",right,13-Jul-23,Jabal Al-Mokaber,16-Jul-05,€250k,Bali United FC
+77,Ramdani Lestaluhu,Attacking Midfield,"Nov 5, 1991 (31)",Indonesia,"1,67m",right,10-May-22,Persija Jakarta,2024,€100k,Bali United FC
+86,Tegar Infantrie,Defensive Midfield,"May 8, 1999 (24)",Indonesia,"1,75m",right,1-Jul-23,Persikabo 1973,-,€125k,Bali United FC
+88,Muhammad Ridho,Goalkeeper,"Jan 21, 1991 (32)",Indonesia,"1,78m",right,1-May-22,Madura United FC,-,€150k,Bali United FC
+91,Rahmat,Left Winger,"May 28, 1988 (35)",Indonesia,"1,73m",right,1-Jan-20,PSM Makassar,2024,€100k,Bali United FC
+94,Jefferson,Centre-Forward,"Oct 21, 1994 (28)",Brazil,"1,85m",,5-Jul-23,Gzira United FC,-,€400k,Bali United FC
+1,Aqil Savik,Goalkeeper,"Jan 17, 1999 (24)",Indonesia,"1,86m",right,1-May-22,PERSIB Bandung,-,€100k,Bhayangkara FC
+2,Alef,Centre-Back,"Sep 10, 1993 (29)",Brazil,"1,86m",right,20-Jul-23,Khon Kaen United,-,€250k,Bhayangkara FC
+3,Abanda Rahman,Centre-Back,"Aug 24, 1990 (32)",Indonesia,"1,81m",right,1-Jul-23,Madura United FC,-,€50k,Bhayangkara FC
+4,Anderson Salles,Centre-Back,"Feb 16, 1988 (35)",Brazil,"1,81m",right,20-May-21,Paraná Clube,-,€250k,Bhayangkara FC
+5,Fatchu Rochman,Left-Back,"Jun 28, 1995 (28)",Indonesia,"1,70m",both,1-Nov-14,Persekap Pasuruan,-,€125k,Bhayangkara FC
+6,Aji Joko Sutopo,Centre-Back,"Mar 31, 1999 (24)",Indonesia,-,right,1-May-22,PSGC Ciamis,-,€75k,Bhayangkara FC
+7,Muhammad Ragil,Centre-Forward,"May 8, 2005 (18)",Indonesia,"1,85m",right,1-Jul-23,Garuda Select,-,-,Bhayangkara FC
+8,Muhammad Hargianto,Defensive Midfield,"Jul 24, 1996 (26)",Indonesia,"1,68m",right,11-Nov-14,Diklat Ragunan,-,€225k,Bhayangkara FC
+10,Adam Najem,Defensive Midfield,"Jan 19, 1995 (28)",Afghanistan,"1,75m",right,11-Jul-22,New York Red Bulls II,14-May-23,€200k,Bhayangkara FC
+11,Dylan De Bruycker,Defensive Midfield,"Dec 5, 1997 (25)",Philippines,"1,75m",right,1-Jul-23,Nakhonratchasima Mazda FC,-,€150k,Bhayangkara FC
+12,Awan Setho,Goalkeeper,"Mar 19, 1997 (26)",Indonesia,"1,75m",right,1-Jan-17,Persip Pekalongan,-,€225k,Bhayangkara FC
+13,Ichwan Tuharea,Attacking Midfield,"Nov 14, 2000 (22)",Indonesia,"1,71m",right,1-Jan-20,Bhayangkara FC Youth,-,€50k,Bhayangkara FC
+14,Yusuf Fitra,Centre-Back,,Indonesia,"1,68m",,1-Jul-23,Bhayangkara FC Youth,-,,Bhayangkara FC
+15,Surya Maulana,Centre-Back,"Jul 9, 2001 (21)",Indonesia,"1,81m",right,1-Jul-21,Bhayangkara FC Youth,-,€25k,Bhayangkara FC
+17,Rifky Ananta,Attacking Midfield,"Jul 2, 2001 (22)",Indonesia,"1,65m",right,1-Jul-23,PSM Madiun,-,-,Bhayangkara FC
+18,Crislan,Centre-Forward,"Mar 13, 1992 (31)",Brazil,"1,90m",left,6-Jul-23,Swat Cat,-,€300k,Bhayangkara FC
+20,Sani Rizki,Right-Back,"Jan 7, 1998 (25)",Indonesia,"1,65m",right,1-Mar-18,Bhayangkara FC Youth,-,€200k,Bhayangkara FC
+21,Titan Agung,Centre-Forward,"Jun 5, 2001 (22)",Indonesia,"1,76m",right,1-Mar-21,Arema FC,-,€100k,Bhayangkara FC
+22,Dendy Sulistyawan,Centre-Forward,"Oct 12, 1996 (26)",Indonesia,"1,76m",right,1-Jan-17,Persela Lamongan,-,€225k,Bhayangkara FC
+23,Wahyu Subo Seto,Attacking Midfield,"Jul 16, 1993 (29)",Indonesia,"1,68m",right,1-Jan-14,Surabaya United Youth,-,€200k,Bhayangkara FC
+24,Iqbal Septian,Goalkeeper,,Indonesia,"1,80m",-,-,-,-,-,Bhayangkara FC
+27,Indra Kahfi,Centre-Back,"Oct 5, 1986 (36)",Indonesia,"1,79m",right,5-Apr-16,Pusamania Borneo FC,-,€25k,Bhayangkara FC
+28,Alsan Sanda,Right-Back,"Aug 1, 1992 (30)",Indonesia,"1,72m",right,1-Jan-17,Bali United FC,-,€150k,Bhayangkara FC
+29,Reza Kusuma,Attacking Midfield,"Feb 7, 2000 (23)",Indonesia,"1,71m",right,1-Jun-22,PS Mitra Kukar,-,€50k,Bhayangkara FC
+30,Indra Adi Nugraha,Goalkeeper,"Oct 8, 1993 (29)",Indonesia,"1,78m",right,1-Feb-18,Persiga Trenggalek,-,€25k,Bhayangkara FC
+31,Dimas Pamungkas,Central Midfield,"Jul 31, 2004 (18)",Indonesia,"1,74m",left,1-Jul-22,PERSIB Bandung,-,€50k,Bhayangkara FC
+33,Matías Mier,Left Midfield,"Aug 2, 1990 (32)",Uruguay,"1,82m",left,20-Jan-23,Independiente Santa Fe,-,€450k,Bhayangkara FC
+35,Arsa Ahmad,Centre-Forward,"Oct 31, 2003 (19)",Indonesia,"1,80m",right,1-Jul-23,Bhayangkara FC Youth,-,-,Bhayangkara FC
+41,Frezy AI Hudaifi,Defensive Midfield,"Apr 21, 2004 (19)",Indonesia,"1,65m",left,1-Aug-22,Bhayangkara FC Youth,-,€75k,Bhayangkara FC
+43,Faiz Maulana,Centre-Forward,"Jul 15, 2004 (19)",Indonesia,"1,77m",right,1-Aug-22,PS Bina Taruna,-,€25k,Bhayangkara FC
+45,Fernando Surbay,Left Winger,"Apr 22, 2000 (23)",Indonesia,"1,70m",left,1-Jun-22,PS Palembang,31-Mar-23,€10k,Bhayangkara FC
+66,David Maulana,Central Midfield,"Feb 25, 2002 (21)",Indonesia,"1,69m",left,1-Jul-22,HNK Rijeka,15-Jun-24,€75k,Bhayangkara FC
+82,Sandeni Sidabutar,Right Winger,"Jan 12, 1997 (26)",Indonesia,-,right,1-Jul-23,PSMS Medan,-,-,Bhayangkara FC
+98,Usman Diarra,Centre-Forward,"Jan 31, 1998 (25)",Indonesia,"1,80m",right,8-Jul-23,New Taipei City Hang Yuan FC,-,€25k,Bhayangkara FC
+99,Fandi Utomo,Attacking Midfield,"Mar 2, 1991 (32)",Indonesia,"1,76m",right,1-Jul-23,Without Club,-,€125k,Bhayangkara FC
+1,Angga Saputro,Goalkeeper,"Nov 30, 1993 (29)",Indonesia,"1,80m",left,1-Mar-21,Persebaya Surabaya,28-Feb-23,€200k,Borneo FC Samarinda
+4,Léo Lelis,Centre-Back,"Nov 15, 1993 (29)",Brazil,"1,89m",both,1-Jul-23,Persebaya Surabaya,14-May-24,€275k,Borneo FC Samarinda
+6,Silvério,Centre-Back,"Dec 26, 1995 (27)",Portugal,"1,86m",both,1-Jul-23,FC Penafiel,30-Jun-24,€200k,Borneo FC Samarinda
+8,Kei Hirose,Central Midfield,"Nov 20, 1995 (27)",Japan,"1,72m",both,15-Dec-21,Johor Darul Ta'zim II,14-Jun-26,€325k,Borneo FC Samarinda
+9,Ahmad Nur Hardianto,Centre-Forward,"Mar 6, 1995 (28)",Indonesia,"1,78m",right,1-May-22,Persita Tangerang,30-Apr-24,€200k,Borneo FC Samarinda
+10,Jelle Goselink,Centre-Forward,"Jul 31, 1999 (23)",Netherlands,"1,89m",both,1-Jul-23,Helmond Sport,-,€225k,Borneo FC Samarinda
+12,Hendro Siswanto,Defensive Midfield,"Mar 12, 1990 (33)",Indonesia,"1,72m",right,1-Mar-21,Arema FC,28-Feb-23,€200k,Borneo FC Samarinda
+13,Agung Prasetyo,Centre-Back,"Dec 22, 1992 (30)",Indonesia,"1,87m",right,1-May-22,Persita Tangerang,30-Apr-24,€175k,Borneo FC Samarinda
+14,Stefano Lilipaly,Right Winger,"Jan 10, 1990 (33)",Indonesia,"1,75m",right,1-May-22,Bali United FC,30-Apr-24,€325k,Borneo FC Samarinda
+15,Leo Guntara,Left-Back,"Aug 17, 1994 (28)",Indonesia,"1,71m",left,23-Feb-21,PSM Makassar,30-Apr-24,€175k,Borneo FC Samarinda
+16,Komang Teguh,Defensive Midfield,"Apr 28, 2002 (21)",Indonesia,"1,76m",right,3-Oct-20,Diklat Ragunan,3-Oct-24,€100k,Borneo FC Samarinda
+17,Ikhsanul Zikrak,Attacking Midfield,"Nov 8, 2002 (20)",Indonesia,"1,75m",left,1-Jul-23,RANS Nusantara FC,30-Apr-26,€75k,Borneo FC Samarinda
+18,Taufany Muslihuddin,Attacking Midfield,"Mar 24, 2002 (21)",Indonesia,"1,71m",right,1-May-22,PS Mitra Kukar,30-Apr-25,€75k,Borneo FC Samarinda
+19,Adam Alis,Left Winger,"Dec 19, 1993 (29)",Indonesia,"1,72m",right,26-Jan-23,Arema FC,27-Jan-25,€250k,Borneo FC Samarinda
+22,Rizky Dwi,Right-Back,"Feb 22, 1997 (26)",Indonesia,"1,78m",right,1-Jul-23,Arema FC,30-Jun-24,€225k,Borneo FC Samarinda
+23,Arya Gerryan,Right Winger,"Oct 24, 2001 (21)",Indonesia,"1,64m",right,6-Feb-20,Borneo FC Samarinda Youth,31-Dec-23,€75k,Borneo FC Samarinda
+24,Diego Michiels,Right-Back,"Aug 8, 1990 (32)",Indonesia,"1,80m",right,1-May-22,Arema FC,30-Apr-24,€150k,Borneo FC Samarinda
+25,Nadeo Argawinata,Goalkeeper,"Mar 9, 1997 (26)",Indonesia,"1,87m",right,1-Jul-23,Bali United FC,30-Apr-26,€275k,Borneo FC Samarinda
+26,Rizdjar Nurviat,Right-Back,"Jan 2, 2006 (17)",Indonesia,"1,77m",right,1-Jul-23,Borneo FC Samarinda Youth,30-Apr-27,-,Borneo FC Samarinda
+28,Terens Puhiri,Right Winger,"Oct 13, 1996 (26)",Indonesia,"1,67m",right,1-Jan-15,Persisam Putra Samarinda (- 2014),30-Apr-24,€200k,Borneo FC Samarinda
+50,Rivaldo Enero,Central Midfield,"Jan 20, 2003 (20)",Indonesia,"1,72m",right,-,,30-Apr-27,-,Borneo FC Samarinda
+54,Alfharezzi Buffon,Centre-Back,"Apr 28, 2006 (17)",Indonesia,"1,72m",,21-Jan-23,Borneo FC Samarinda Youth,30-Apr-27,€10k,Borneo FC Samarinda
+56,Fajar Fathur Rahman,Right-Back,"May 29, 2002 (21)",Indonesia,"1,70m",right,10-Sep-20,SSB ASAD 313 Jaya Perkasa,31-Dec-23,€200k,Borneo FC Samarinda
+63,Daffa Fasya,Goalkeeper,"May 7, 2004 (19)",Indonesia,"1,84m",,1-Jan-23,Borneo FC Samarinda Youth,5-Oct-24,€25k,Borneo FC Samarinda
+68,Hugo Samir,Right Winger,"Jan 25, 2005 (18)",Indonesia,"1,77m",right,1-Jul-23,PERSIS Solo Youth,1-Jun-24,€10k,Borneo FC Samarinda
+77,Abdul Rachman,Left-Back,"Jan 30, 1988 (35)",Indonesia,"1,69m",left,16-Jan-23,Bhayangkara FC,30-Apr-25,€50k,Borneo FC Samarinda
+81,Yogi Hermawan,Goalkeeper,"Jan 16, 2003 (20)",Indonesia,"1,85m",right,31-Jan-23,PS Barito Putera,30-Apr-25,€25k,Borneo FC Samarinda
+90,Muhammad Sihran,Left Winger,"Mar 8, 1999 (24)",Indonesia,"1,58m",left,1-Sep-18,Borneo FC Samarinda Youth,30-Apr-24,€150k,Borneo FC Samarinda
+91,Felipe Cadenazzi,Centre-Forward,"Oct 12, 1991 (31)",Argentina,"1,91m",left,20-Jul-23,Magallanes CF,-,€225k,Borneo FC Samarinda
+99,Win Naing Tun,Centre-Forward,"May 3, 2000 (23)",Myanmar,"1,82m",right,1-Jul-23,Yangon United,31-May-24,€100k,Borneo FC Samarinda
+1,Muhammad Natshir,Goalkeeper,"Feb 13, 1993 (30)",Indonesia,"1,82m",right,1-Apr-22,PERSIB Bandung,2024,€150k,Dewa United FC
+2,Mochammad Zaenuri,Centre-Back,"Jun 10, 1995 (28)",Indonesia,"1,82m",right,20-Jul-22,Persebaya Surabaya,20-Jul-23,€200k,Dewa United FC
+3,Junior Eldstal,Centre-Back,"Sep 16, 1991 (31)",Malaysia,"1,91m",right,20-Jul-23,Johor Darul Ta'zim,31-Dec-23,€150k,Dewa United FC
+4,Asep Berlian,Defensive Midfield,"Jul 11, 1990 (32)",Indonesia,"1,78m",right,7-Apr-22,Madura United FC,2024,€75k,Dewa United FC
+5,Risto Mitrevski,Centre-Back,"Oct 5, 1991 (31)",North Macedonia,"1,87m",both,1-May-22,Without Club,30-Apr-24,€225k,Dewa United FC
+6,Theo Numberi,Central Midfield,"Sep 1, 2001 (21)",Indonesia,"1,64m",right,1-Jun-22,Persipura Jayapura,2024,€100k,Dewa United FC
+7,Feby Eka,Left Winger,"Feb 12, 1999 (24)",Indonesia,"1,83m",both,1-Apr-22,Arema FC,31-Mar-24,€175k,Dewa United FC
+8,Nasir,Left-Back,"Oct 8, 1995 (27)",Indonesia,"1,70m",left,1-Jul-22,Persela Lamongan,2024,€100k,Dewa United FC
+10,Egy Maulana Vikri,Right Winger,"Jul 7, 2000 (22)",Indonesia,"1,70m",left,30-Jan-23,ViOn Zlate Moravce-Vrable,-,€175k,Dewa United FC
+11,Majed Osman,Attacking Midfield,"Jun 9, 1994 (29)",Lebanon,"1,83m",right,1-Jul-22,Al-Ansar FC,31-May-24,€350k,Dewa United FC
+12,Henhen Herdiana,Right-Back,"Sep 10, 1995 (27)",Indonesia,"1,69m",right,1-Jul-23,PERSIB Bandung,1-Jul-24,€200k,Dewa United FC
+13,Subhan Fajri,Left Winger,"May 13, 2003 (20)",Indonesia,"1,69m",left,1-Apr-22,Persiraja Banda Aceh,31-Mar-24,€50k,Dewa United FC
+14,Brian Fatari,Centre-Back,"Dec 20, 1999 (23)",Indonesia,"1,86m",right,4-Jan-23,Persipura Jayapura,-,€100k,Dewa United FC
+15,Rangga Muslim,Attacking Midfield,"May 13, 1994 (29)",Indonesia,"1,66m",both,1-Mar-21,Bhayangkara FC,31-Mar-24,€225k,Dewa United FC
+16,Kafiatur Rizky,Central Midfield,"Jul 17, 2006 (17)",Indonesia,"1,72m",left,20-Jul-23,Borneo FC Samarinda Youth,31-Mar-24,-,Dewa United FC
+17,Ahmad Nufiandani,Right Winger,"Nov 20, 1994 (28)",Indonesia,"1,78m",right,1-Jul-23,Persebaya Surabaya,-,€175k,Dewa United FC
+19,Ricky Kambuaya,Attacking Midfield,"May 5, 1996 (27)",Indonesia,"1,77m",right,5-Apr-22,Persib Bandung,,€275k,Dewa United FC
+22,Dimitrios Kolovos,Attacking Midfield,"Apr 27, 1993 (30)",Greece,"1,84m",both,1-Jul-23,Panetolikos GFS,2025,€600k,Dewa United FC
+23,Ady Setiawan,Right-Back,"Sep 10, 1994 (28)",Indonesia,"1,67m",right,1-Jul-23,RANS Nusantara FC,-,€200k,Dewa United FC
+24,Ichsan Kurniawan,Defensive Midfield,"Dec 24, 1995 (27)",Indonesia,"1,69m",right,1-Apr-22,Persija Jakarta,2024,€125k,Dewa United FC
+26,Ahmad Gunandi,Goalkeeper,"Jan 1, 2000 (23)",Indonesia,-,right,1-Apr-21,Without Club,31-Mar-24,€50k,Dewa United FC
+27,Dicky Kurniawan,Attacking Midfield,,Indonesia,"1,69m",left,1-Jul-23,Dewa United FC Youth,-,-,Dewa United FC
+28,Dennish,Attacking Midfield,"Jan 28, 2001 (22)",Indonesia,"1,69m",right,1-May-22,PS Mitra Kukar,30-Apr-24,€25k,Dewa United FC
+37,Alta Ballah,Left-Back,"Dec 30, 2000 (22)",Indonesia,"1,75m",left,1-Jul-23,Persebaya Surabaya,-,€200k,Dewa United FC
+39,Alex,Centre-Forward,"Jul 8, 1993 (29)",Brazil,"1,87m",right,1-Jul-23,Bhayangkara FC,-,€175k,Dewa United FC
+47,Agung Mannan,Centre-Back,"Aug 6, 1998 (24)",Indonesia,"1,75m",left,1-Jul-23,PSM Makassar,-,€125k,Dewa United FC
+60,Yofandani Pranata,Goalkeeper,"Apr 9, 2001 (22)",Indonesia,"1,82m",right,1-Jul-23,PSIS Semarang,-,€25k,Dewa United FC
+71,Iqbal Al Ghuzat,Left-Back,"Feb 17, 1999 (24)",Indonesia,"1,66m",right,1-Jul-23,FC Bekasi City,-,€125k,Dewa United FC
+87,Ahmad Rusadi,Centre-Back,"Apr 4, 2003 (20)",Indonesia,"1,80m",right,1-Jul-23,PSM Makassar,-,€75k,Dewa United FC
+92,Sonny Stevens,Goalkeeper,"Jun 22, 1992 (31)",Netherlands,"1,94m",right,1-Jul-23,OFI Crete FC,-,€450k,Dewa United FC
+99,Septian Bagaskara,Centre-Forward,"Sep 26, 1997 (25)",Indonesia,"1,83m",both,1-Jul-23,RANS Nusantara FC,-,€175k,Dewa United FC
+2,Guntur Ariyadi,Right-Back,"Mar 16, 1987 (36)",Indonesia,"1,74m",right,1-Apr-16,PS Barito Putera,2024,€25k,Madura United FC
+4,Cleberson,Centre-Back,"Aug 17, 1992 (30)",Brazil,"1,85m",right,4-Jun-22,Ituano Futebol Clube (SP),2024,€325k,Madura United FC
+5,Jacob Mahler,Centre-Back,"Apr 10, 2000 (23)",Singapore,"1,84m",right,1-Jul-23,military service (Singapore),-,€75k,Madura United FC
+7,Francisco Rivera,Attacking Midfield,"Sep 23, 1994 (28)",Mexico,"1,70m",left,1-Jul-23,KF Llapi,-,€325k,Madura United FC
+8,Hugo Gomes,Attacking Midfield,"Mar 18, 1995 (28)",Brazil,"1,78m",left,15-Mar-21,Kalmar FF,2024,€400k,Madura United FC
+9,Beto,Centre-Forward,"Dec 31, 1980 (42)",Indonesia,"1,75m",right,3-Jan-22,PERSIS Solo,"Dec, 2023",€25k,Madura United FC
+10,Slamet Nurcahyono,Attacking Midfield,"Jul 11, 1983 (39)",Indonesia,"1,65m",right,1-Feb-16,Bhayangkara Surabaya United,2024,€25k,Madura United FC
+11,Lulinha,Left Winger,"Apr 10, 1990 (33)",Brazil,"1,70m",right,9-May-22,Without Club,2024,€250k,Madura United FC
+15,Ricki Ariansyah,Defensive Midfield,"Jun 10, 1997 (26)",Indonesia,"1,67m",left,7-May-22,Persita Tangerang,2024,€150k,Madura United FC
+16,Rendika Rama,Left-Back,"Mar 16, 1993 (30)",Indonesia,"1,78m",left,1-Jul-23,Arema FC,-,€125k,Madura United FC
+17,Kevy Syahertian,Attacking Midfield,"Jun 23, 1999 (24)",Indonesia,"1,64m",left,1-Jul-19,Madura United FC Youth,-,€75k,Madura United FC
+19,Fachruddin Aryanto,Centre-Back,"Feb 19, 1989 (34)",Indonesia,"1,85m",right,1-Jan-17,Sriwijaya FC,2024,€200k,Madura United FC
+22,Iksan Lestaluhu,Left-Back,"Oct 13, 2003 (19)",Indonesia,"1,67m",,1-Jul-23,Maluku FC,-,-,Madura United FC
+23,Bayu Gatra,Right Winger,"Nov 12, 1991 (31)",Indonesia,"1,67m",right,14-Mar-21,PSM Makassar,2024,€100k,Madura United FC
+25,Riski Afrisal,Attacking Midfield,"Apr 25, 2006 (17)",Indonesia,"1,69m",right,1-Jul-23,Without Club,-,-,Madura United FC
+26,Novan Sasongko,Left-Back,"Nov 26, 1989 (33)",Indonesia,"1,70m",right,20-May-21,Persela Lamongan,2024,€75k,Madura United FC
+27,Make Aldo Maulidino,Centre-Forward,"Jul 22, 1998 (24)",Indonesia,"1,70m",right,19-Feb-21,Without Club,2024,€25k,Madura United FC
+28,Kartika Vedhayanto,Right-Back,"Jan 25, 2002 (21)",Indonesia,"1,72m",right,1-Jul-23,PSIS Semarang,-,€50k,Madura United FC
+29,Raihan Ashari,Midfield,,Indonesia,-,,1-Jul-23,Depok City FC,-,-,Madura United FC
+30,Salim Tuharea,Left Winger,,Indonesia,-,,1-Jan-23,Depok City FC,2024,€25k,Madura United FC
+31,Yuda Editya Pratama,Centre-Forward,"May 31, 2004 (19)",Indonesia,"1,81m",right,1-Jul-23,Borneo FC Samarinda,31-Mar-24,€25k,Madura United FC
+32,Muhammad Tahir,Central Midfield,"Jan 4, 1994 (29)",Indonesia,"1,70m",right,1-Jul-23,Persipura Jayapura,-,€150k,Madura United FC
+33,Koko Ari,Right-Back,"Jan 9, 2000 (23)",Indonesia,"1,78m",right,1-Jul-23,Persebaya Surabaya,-,€225k,Madura United FC
+42,Feby Ramzy,Defensive Midfield,"Feb 4, 2002 (21)",Indonesia,"1,67m",right,1-Jan-22,Persepam Pamekasan,2024,€25k,Madura United FC
+59,Andrian Casvari,Goalkeeper,,Indonesia,-,,1-Jul-23,Without Club,-,-,Madura United FC
+60,Fawaid Ansory,Goalkeeper,"Sep 13, 1999 (23)",Indonesia,"1,74m",right,17-Jan-19,Madura United FC Youth,2024,€25k,Madura United FC
+61,Karisma Ramadhany,Goalkeeper,"Nov 7, 2003 (19)",Indonesia,"1,79m",right,1-Jan-22,Persikama Magelang,2024,€10k,Madura United FC
+72,Anwar Rifa'i,Defence,,Indonesia,-,,1-Jul-23,Without Club,-,-,Madura United FC
+76,Alexvan Djin,Right-Back,"Dec 31, 1998 (24)",Indonesia,"1,80m",right,4-Jan-20,Persik Kediri,2024,€175k,Madura United FC
+77,Malik Risaldi,Right Winger,"Oct 23, 1996 (26)",Indonesia,"1,71m",right,23-Apr-22,Persela Lamongan,2024,€150k,Madura United FC
+81,Wawan Hendrawan,Goalkeeper,"Jan 8, 1983 (40)",Indonesia,"1,78m",right,6-Jul-23,RANS Nusantara FC,-,€25k,Madura United FC
+88,Satria Tama,Goalkeeper,"Jan 23, 1997 (26)",Indonesia,"1,83m",right,1-Jul-23,Persebaya Surabaya,-,€125k,Madura United FC
+95,Junior Brandão,Centre-Forward,"Jan 7, 1995 (28)",Brazil,"1,87m",right,1-Jul-23,Without Club,-,€300k,Madura United FC
+1,Lalu Rizki,Goalkeeper,"Feb 5, 2004 (19)",Indonesia,"1,80m",,1-Jul-23,ASIFA,-,-,Persebaya Surabaya
+2,Arief Catur,Right-Back,"Jul 25, 1999 (23)",Indonesia,"1,69m",right,20-Apr-22,Persikab Bandung,-,€75k,Persebaya Surabaya
+3,Reva Adi,Left-Back,"Sep 1, 1996 (26)",Indonesia,"1,72m",left,1-Jul-23,Madura United FC,-,€200k,Persebaya Surabaya
+5,Dusan Stevanovic,Centre-Back,"Jun 22, 1996 (27)",Serbia,"1,86m",left,1-Jul-23,FK Radnik Surdulica,30-Jun-23,€350k,Persebaya Surabaya
+6,Muhammad Iqbal,Right Winger,"Oct 27, 2000 (22)",Indonesia,"1,69m",right,3-Jan-23,Without Club,-,€25k,Persebaya Surabaya
+7,Ui-young Song,Attacking Midfield,"Nov 8, 1993 (29)",Singapore,"1,71m",right,1-Jul-23,Nongbua Pitchaya FC,31-May-24,€250k,Persebaya Surabaya
+8,Andre Oktaviansyah,Defensive Midfield,"Oct 23, 2002 (20)",Indonesia,"1,60m",right,6-Apr-22,Persikabo 1973,-,€125k,Persebaya Surabaya
+9,Paulo Victor,Centre-Forward,"Sep 13, 1994 (28)",Brazil,"1,80m",right,11-Jan-23,Visakha FC,-,€200k,Persebaya Surabaya
+10,Zé Valente,Attacking Midfield,"May 14, 1994 (29)",Portugal,"1,80m",left,6-Jan-23,PSS Sleman,30-Jun-25,€300k,Persebaya Surabaya
+12,Nuri Fasya,Right-Back,"Jan 23, 1999 (24)",Indonesia,"1,71m",right,1-Jul-23,FC Bekasi City,-,€75k,Persebaya Surabaya
+14,Sho Yamamoto,Left Winger,"Nov 12, 1996 (26)",Japan,"1,74m",both,1-Jun-22,FK Iskra Danilovgrad,30-Apr-24,€250k,Persebaya Surabaya
+15,Miftakhul Yunan,Goalkeeper,"Jun 17, 2003 (20)",Indonesia,"1,84m",,1-Jul-23,Without Club,-,-,Persebaya Surabaya
+16,George Brown,Right-Back,"Jun 4, 1999 (24)",Indonesia,"1,79m",right,2-Jan-23,Without Club,31-Dec-24,€50k,Persebaya Surabaya
+17,Ferdinan Sinaga,Centre-Forward,"Sep 18, 1988 (34)",Indonesia,"1,69m",left,1-Jul-23,PERSIS Solo,-,€50k,Persebaya Surabaya
+18,Brylian Aldama,Central Midfield,"Feb 23, 2002 (21)",Indonesia,"1,75m",right,27-Apr-22,HNK Rijeka,-,€100k,Persebaya Surabaya
+20,Wildan Ramdhani,Right Winger,"Dec 24, 1998 (24)",Indonesia,"1,70m",right,1-Jul-23,Persita Tangerang,-,€125k,Persebaya Surabaya
+21,Ernando Ari,Goalkeeper,"Feb 27, 2002 (21)",Indonesia,"1,77m",right,5-Jan-20,Persebaya Surabaya Youth,31-Jan-25,€200k,Persebaya Surabaya
+22,Risky Dwiyan,Defensive Midfield,"Apr 1, 1999 (24)",Indonesia,"1,70m",left,20-Apr-22,Persikab Bandung,-,€75k,Persebaya Surabaya
+23,Kadek Raditya,Centre-Back,"Jun 13, 1999 (24)",Indonesia,"1,78m",right,1-Jul-23,Madura United FC,-,€150k,Persebaya Surabaya
+24,Salman Alfarid,Left-Back,"Apr 16, 2002 (21)",Indonesia,"1,74m",left,21-Apr-22,Persija Jakarta,-,€50k,Persebaya Surabaya
+32,Riswan Lauhim,Centre-Back,"Aug 8, 1998 (24)",Indonesia,"1,75m",both,11-Jun-22,Without Club,-,€75k,Persebaya Surabaya
+36,Ripal Wahyudi,Defensive Midfield,"Oct 10, 2000 (22)",Indonesia,"1,68m",right,1-Jul-23,Bhayangkara FC,-,€50k,Persebaya Surabaya
+50,Yohanes Kandaimu,Centre-Back,"Aug 12, 1995 (27)",Indonesia,"1,89m",right,1-Jul-23,Persita Tangerang,-,€150k,Persebaya Surabaya
+52,Andhika Ramadhani,Goalkeeper,"Jan 5, 1999 (24)",Indonesia,"1,84m",right,26-Sep-20,Persebaya Surabaya Youth,31-Dec-25,€150k,Persebaya Surabaya
+64,Aditya Arya,Goalkeeper,"Jan 1, 2004 (19)",Indonesia,"1,83m",right,10-Jul-22,Bhayangkara FC Youth,-,€25k,Persebaya Surabaya
+68,Toni Firmansyah,Attacking Midfield,"Jan 16, 2005 (18)",Indonesia,"1,67m",,1-Jul-23,Persebaya Surabaya Youth,-,-,Persebaya Surabaya
+73,Rifqi Arya,Left-Back,,Indonesia,-,,1-Jul-23,Internasional Banten,-,-,Persebaya Surabaya
+74,Denny Agus,Right Winger,"Aug 11, 2000 (22)",Indonesia,"1,69m",right,20-Apr-22,Persikota Tangerang,-,€25k,Persebaya Surabaya
+77,Kasim Botan,Right Winger,"Apr 14, 1997 (26)",Indonesia,"1,70m",right,1-Jul-23,Bhayangkara FC,-,€150k,Persebaya Surabaya
+88,Alwi Slamat,Defensive Midfield,"Dec 16, 1998 (24)",Indonesia,"1,68m",left,25-Jan-19,PSMS Medan,31-Mar-23,€225k,Persebaya Surabaya
+96,Muhammad Hidayat,Defensive Midfield,"Apr 26, 1996 (27)",Indonesia,"1,77m",right,22-Mar-17,Pusamania Borneo FC,31-Mar-23,€150k,Persebaya Surabaya
+99,Bruno,Left Winger,"Apr 8, 1999 (24)",Brazil,"1,78m",both,1-Jul-23,Without Club,-,€250k,Persebaya Surabaya
+-,Levy Madinda,Attacking Midfield,"Jun 11, 1992 (31)",Gabon,"1,82m",right,20-Jul-23,Johor Darul Ta'zim,31-Dec-23,€175k,Persib Bandung
+1,Fitrul Rustapa,Goal Keeper,"Jun 5, 1995 (28)",Indonesia,"1,77m",right,18-Apr-22,Persipura Jayapura,,€150k,Persib Bandung
+2,Nick Kuipers,Centre-Back,"Oct 8, 1992 (30)",Netherlands,"1,93m",right,15-Aug-19,ADO Den Haag,,€400k,Persib Bandung
+4,Putu Gede,Right-Back,"Jun 7, 1995 (28)",Indonesia,"1,76m",right,1-Jul-23,Bhayangkara FC,,€200k,Persib Bandung
+5,Kakang Rudianto,Center-Back,"Feb 2, 2003 (20)",Indonesia,"1,83m",right,15-Sep-20,PERSIB Bandung Youth,,€150k,Persib Bandung
+6,Robi Darwis,Defensive Midfield,"Aug 2, 2003 (19)",Indonesia,"1,70m",right,1-May-22,PERSIB Bandung Youth,,€100k,Persib Bandung
+7,Beckham Putra,Attacking Midfield,"Oct 29, 2001 (21)",Indonesia,"1,73m",right,1-Jan-19,PERSIB Bandung Youth,,€250k,Persib Bandung
+8,Abdul Aziz,Centre Midfield,"Feb 14, 1994 (29)",Indonesia,"1,72m",right,8-Jan-19,PSMS Medan,,€125k,Persib Bandung
+9,Ezra Walian,Left Winger,"Oct 22, 1997 (25)",Indonesia,"1,85m",right,14-Mar-21,PSM Makassar,,€275k,Persib Bandung
+11,Dedi Kusnandar,Defensive Midfield,"Jul 23, 1991 (31)",Indonesia,"1,75m",right,26-Dec-16,Sabah FC,,€175k,Persib Bandung
+13,Febri Hariyadi,Right Winger,"Feb 19, 1996 (27)",Indonesia,"1,68m",both,1-Jan-16,PERSIB Bandung Youth,,€225k,Persib Bandung
+14,Teja Paku Alam,Goal Keeper,"Mar 14, 1994 (29)",Indonesia,"1,77m",right,16-Jan-20,Semen Padang FC,,€225k,Persib Bandung
+16,Achmad Jufriyanto,Centre-Back,"Feb 7, 1987 (36)",Indonesia,"1,82m",right,18-Apr-19,Kuala Lumpur City FC,,€75k,Persib Bandung
+17,Sheva Sanggasi,Goalkeeper,,Indonesia,,,1-Jul-23,PERSIB Bandung Youth,-,-,Persib Bandung
+18,Ferdiansyah,Right Winger,"Jul 15, 2003 (19)",Indonesia,"1,72m",right,29-Aug-21,PERSIB Bandung Youth,,€100k,Persib Bandung
+19,David da Silva,Centre-Forward,"Nov 12, 1989 (33)",Brazil,"1,85m",right,15-Dec-21,Terengganu FC,,€225k,Persib Bandung
+20,Eriyanto,Right-Back,"Mar 12, 1996 (27)",Indonesia,"1,73m",right,25-Apr-22,PERSIS Solo,,€75k,Persib Bandung
+21,Frets Butuan,Left Winger,"Jun 4, 1996 (27)",Indonesia,"1,67m",right,13-Jan-19,PSMS Medan,,€200k,Persib Bandung
+22,Alberto Rodriguez,Center-Back,"Dec 31, 1992 (30)",Spain,"1,91m",both,1-Jul-23,CD Lugo,,€300k,Persib Bandung
+23,Marc Klok,Center Midfield,"Apr 20, 1993 (30)",Indonesia,"1,77m",right,30-Jun-21,Persija Jakarta,,€475k,Persib Bandung
+27,Zalnando,Left-Back,"Dec 25, 1996 (26)",Indonesia,"1,76m",left,16-Jan-19,Sriwijaya FC,,€125k,Persib Bandung
+32,Victor Igbonefo,Centre-Back,"Oct 10, 1985 (37)",Indonesia,"1,83m",right,1-Jan-20,PTT Rayong (1998-2019),,€50k,Persib Bandung
+34,Reky Rahayu,Goal Keeper,"May 8, 1993 (30)",Indonesia,"1,76m",right,28-May-22,Kalteng Putra FC,,€100k,Persib Bandung
+53,Rachmat Irianto,Centre-Back,"Sep 3, 1999 (23)",Indonesia,"1,75m",right,5-Apr-22,Persebaya Surabaya,,€325k,Persib Bandung
+56,Rezaldi Hehanusa,Left-Back,"Nov 7, 1995 (27)",Indonesia,"1,78m",left,26-Jan-23,Persija Jakarta,,€150k,Persib Bandung
+66,Daisuke Sato,Left-Back,"Sep 20, 1994 (28)",Philippines,"1,70m",left,10-Jun-22,Ratchaburi FC,,€200k,Persib Bandung
+70,Arsan Makarin,Right Winger,"Feb 8, 2001 (22)",Indonesia,"1,66m",,25-Apr-22,Bandung United FC,,€50k,Persib Bandung
+77,Ciro Alves,Right Winger,"Apr 18, 1989 (34)",Brazil,"1,75m",right,13-Apr-22,Persikabo 1973,,€350k,Persib Bandung
+96,Ryan Kurnia,Right Winger,"Jun 28, 1996 (27)",Indonesia,"1,80m",right,1-Jul-23,Persikabo 1973,,€150k,Persib Bandung
+97,Edo Febriansyah,Left-Back,"Jul 25, 1997 (25)",Indonesia,"1,73m",left,1-Jul-23,RANS Nusantara FC,,€225k,Persib Bandung
+99,Ridwan Ansori,Centre-Forward,"Feb 13, 2004 (19)",Indonesia,"1,74m",left,7-Feb-22,PERSIB Bandung Youth,,€25k,Persib Bandung
+2,Rio Fahmi,Right-Back,"Oct 6, 2001 (21)",Indonesia,"1,70m",right,1-Aug-21,Persija Jakarta Youth,30-Jun-25,€225k,Persija Jakarta
+5,Dandi Maulana,Centre-Back,"Jun 17, 1998 (25)",Indonesia,"1,75m",right,4-Jan-23,Persebaya Surabaya,-,€150k,Persija Jakarta
+6,Tony Sucipto,Defensive Midfield,"Feb 12, 1986 (37)",Indonesia,"1,68m",left,18-Jan-19,PERSIB Bandung,31-Mar-23,€10k,Persija Jakarta
+7,Ryo Matsumura,Attacking Midfield,"Jun 15, 1994 (29)",Japan,"1,66m",right,1-Jul-23,BG Pathum United,31-May-26,€275k,Persija Jakarta
+8,Syahrian Abimanyu,Central Midfield,"Apr 25, 1999 (24)",Indonesia,"1,71m",left,12-Jan-22,Johor Darul Ta'zim,30-Jun-24,€225k,Persija Jakarta
+9,Marko Simic,Centre-Forward,"Jan 23, 1988 (35)",Croatia,"1,87m",both,1-Jul-23,Without Club,2025,€100k,Persija Jakarta
+10,Maciej Gajos,Attacking Midfield,"Mar 19, 1991 (32)",Poland,"1,74m",right,14-Jul-23,Lechia Gdansk,30-Jun-25,€250k,Persija Jakarta
+11,Firza Andika,Left-Back,"May 11, 1999 (24)",Indonesia,"1,69m",left,3-Apr-22,Persikabo 1973,30-Jun-25,€200k,Persija Jakarta
+13,Adre Arido,Goalkeeper,"Aug 13, 2003 (19)",Indonesia,"1,85m",right,23-Jun-22,Persija Jakarta Youth,-,€25k,Persija Jakarta
+17,Ondrej Kudela,Centre-Back,"Mar 26, 1987 (36)",Czech Republic,"1,82m",right,1-Jul-22,SK Slavia Prague,30-Jun-25,€350k,Persija Jakarta
+19,Hanif Sjahbandi,Defensive Midfield,"Apr 7, 1997 (26)",Indonesia,"1,81m",right,3-Apr-22,Arema FC,31-Mar-24,€225k,Persija Jakarta
+21,Alfriyanto Nico,Right Winger,"Apr 3, 2003 (20)",Indonesia,"1,72m",right,20-Aug-20,Persija Jakarta Youth,-,€150k,Persija Jakarta
+22,Oliver Bias,Right Winger,"Jun 15, 2001 (22)",Philippines,"1,64m",both,20-Jul-23,FK Pribram,30-Jun-24,€75k,Persija Jakarta
+23,Hansamu Yama,Centre-Back,"Jan 16, 1995 (28)",Indonesia,"1,81m",right,6-Apr-22,Bhayangkara FC,31-May-25,€250k,Persija Jakarta
+24,Resky Fandi,Defensive Midfield,"Sep 6, 1999 (23)",Indonesia,"1,73m",right,7-Jan-19,Martapura FC,30-Jun-25,€175k,Persija Jakarta
+25,Riko Simanjuntak,Right Winger,"Jan 26, 1992 (31)",Indonesia,"1,58m",right,1-Feb-18,Semen Padang FC,30-Jun-26,€225k,Persija Jakarta
+26,Andritany,Goalkeeper,"Dec 26, 1991 (31)",Indonesia,"1,78m",right,1-Jul-10,Sriwijaya FC,30-Jun-26,€250k,Persija Jakarta
+33,Akbar Arjunsyah,Centre-Back,"Jul 21, 2001 (21)",Indonesia,"1,75m",right,1-Jul-23,Gresik United FC,30-Jun-25,-,Persija Jakarta
+41,Muhammad Ferarri,Centre-Back,"Jun 21, 2003 (20)",Indonesia,"1,79m",right,20-Aug-20,Persija Jakarta Youth,30-Jun-25,€175k,Persija Jakarta
+50,Cahya Supriadi,Goalkeeper,"Feb 11, 2003 (20)",Indonesia,"1,79m",right,18-Mar-21,Persija Jakarta Youth,-,€125k,Persija Jakarta
+56,Maman Abdurahman,Centre-Back,"May 12, 1982 (41)",Indonesia,"1,77m",right,1-Jul-15,Persita Tangerang,31-Mar-23,€10k,Persija Jakarta
+57,Amar Fadzillah,Midfield,"Feb 8, 2002 (21)",Indonesia,"1,70m",left,1-Jul-23,Persija Jakarta Youth,-,-,Persija Jakarta
+58,Rayhan Hannan,Attacking Midfield,"Apr 2, 2004 (19)",Indonesia,-,right,-,,-,€25k,Persija Jakarta
+73,Sandi Samosir,Left Winger,"Jan 8, 2002 (21)",Indonesia,"1,80m",left,30-Jan-23,Persija Jakarta Youth,-,€50k,Persija Jakarta
+74,Rizky Ridho,Centre-Back,"Nov 21, 2001 (21)",Indonesia,"1,83m",right,1-Jul-23,Persebaya Surabaya,30-Jun-26,€325k,Persija Jakarta
+77,Dony Tri Pamungkas,Attacking Midfield,"Jan 11, 2005 (18)",Indonesia,"1,77m",left,1-Sep-21,Persija Jakarta Youth,30-Jun-25,€125k,Persija Jakarta
+78,Witan,Right Winger,"Oct 8, 2001 (21)",Indonesia,"1,70m",left,30-Jan-23,AS Trencin,31-May-26,€200k,Persija Jakarta
+99,Aji Kusuma,Centre-Forward,"Jan 30, 1999 (24)",Indonesia,"1,76m",right,12-Jan-23,Persiba Balikpapan,-,€100k,Persija Jakarta
+2,Anderson,Centre-Back,"Mar 4, 1993 (30)",Brazil,"1,83m",,26-Jan-23,Alki Oroklini,30-Jun-24,€150k,Persik Kediri
+6,Bayu Otto,Attacking Midfield,"Oct 15, 1999 (23)",Indonesia,"1,63m",right,1-Jan-17,Persedikab Kediri,30-Apr-24,€150k,Persik Kediri
+7,Yusuf Meilana,Left-Back,"May 4, 1998 (25)",Indonesia,"1,76m",both,1-Jan-17,Persekat Tegal,30-Apr-24,€150k,Persik Kediri
+8,Arthur Irawan,Defensive Midfield,"Mar 3, 1993 (30)",Indonesia,"1,76m",right,15-Dec-21,PSS Sleman,-,€125k,Persik Kediri
+9,Jefinho,Centre-Forward,"May 25, 1994 (29)",Brazil,"1,90m",right,11-Jul-23,Nejmeh SC,-,€150k,Persik Kediri
+10,Renan Silva,Attacking Midfield,"Jan 2, 1989 (34)",Brazil,"1,76m",left,12-Apr-22,Madura United FC,-,€250k,Persik Kediri
+11,Adi Eko,Central Midfield,"Jan 18, 1994 (29)",Indonesia,"1,73m",right,1-Jan-18,Persedikab Kediri,30-Jun-24,€125k,Persik Kediri
+13,Faris Aditama,Left Winger,"Feb 19, 1988 (35)",Indonesia,"1,75m",left,1-Apr-19,Madura FC,30-Jun-24,€25k,Persik Kediri
+14,Miftahul Hamdi,Right Winger,"Dec 13, 1995 (27)",Indonesia,"1,74m",right,12-Jan-23,PSS Sleman,-,€175k,Persik Kediri
+16,Hamra Hehanusa,Left-Back,"Jul 1, 1999 (24)",Indonesia,"1,78m",left,9-Jan-23,Persija Jakarta,30-Jun-24,€75k,Persik Kediri
+17,Yohanes Pahabol,Left Winger,"Jan 16, 1992 (31)",Indonesia,"1,63m",left,20-May-22,Persipura Jayapura,-,€125k,Persik Kediri
+20,Simen Lyngbø,Right-Back,"Feb 18, 1998 (25)",Philippines,"1,77m",both,1-Jul-23,Without Club,-,€125k,Persik Kediri
+22,Riyatno Abiyoso,Left Winger,"Jan 18, 1999 (24)",Indonesia,"1,65m",left,11-Apr-22,Persela Lamongan,30-Apr-24,€175k,Persik Kediri
+23,Gunawan Dwi Cahyo,Centre-Back,"Apr 20, 1989 (34)",Indonesia,"1,82m",right,1-Jul-23,Bali United FC,-,€25k,Persik Kediri
+24,Ahmad Agung,Defensive Midfield,"Mar 9, 1996 (27)",Indonesia,"1,80m",right,1-Jul-23,Bali United FC,-,€150k,Persik Kediri
+27,Fitra Ridwan,Central Midfield,"Mar 16, 1994 (29)",Indonesia,"1,69m",right,1-Jan-22,PSS Sleman,-,€100k,Persik Kediri
+30,Rendy Juliansyah,Attacking Midfield,"Jul 27, 2002 (20)",Indonesia,"1,65m",right,25-May-22,Sulut United FC,30-Jun-24,€75k,Persik Kediri
+31,Dikri Yusron,Goalkeeper,"Jan 8, 1995 (28)",Indonesia,"1,78m",right,8-Mar-21,Badak Lampung FC,30-Jun-24,€100k,Persik Kediri
+32,Rohit Chand,Central Midfield,"Mar 1, 1992 (31)",Nepal,"1,78m",left,22-May-22,Persija Jakarta,31-May-24,€300k,Persik Kediri
+37,Agil Munawar,Right-Back,"Jun 10, 1996 (27)",Indonesia,"1,69m",right,29-Apr-21,Without Club,30-Apr-24,€150k,Persik Kediri
+39,Jeam Kelly Sroyer,Centre-Forward,"Dec 11, 2002 (20)",Indonesia,"1,68m",right,5-Jan-22,PSBS Biak,-,€100k,Persik Kediri
+54,Supriadi,Right Winger,"May 23, 2002 (21)",Indonesia,"1,64m",right,1-Jul-23,Persebaya Surabaya,-,€100k,Persik Kediri
+66,Eko Saputro,Goalkeeper,"Mar 27, 1999 (24)",Indonesia,"1,82m",right,1-Jul-23,Persikab Bandung,-,-,Persik Kediri
+69,Rangga Widiansyah,Left-Back,"Apr 24, 2002 (21)",Indonesia,"1,66m",left,7-Jan-23,Persija Jakarta,-,€50k,Persik Kediri
+77,Flávio Silva,Right Winger,"Apr 3, 1996 (27)",Portugal,"1,84m",right,11-Jan-23,FC Mondercange,-,€150k,Persik Kediri
+78,Mario Yagalo,Centre-Back,"Apr 21, 1993 (30)",Indonesia,"1,84m",left,17-Jan-20,TIRA-Persikabo,31-May-24,€150k,Persik Kediri
+86,Muhammad Taufiq,Defensive Midfield,"Nov 29, 1986 (36)",Indonesia,"1,67m",right,20-Apr-22,Bali United FC,-,€10k,Persik Kediri
+88,Hary Nasution,Centre-Back,"Feb 16, 2000 (23)",Indonesia,-,right,1-Jul-23,Persela Lamongan,-,€10k,Persik Kediri
+96,Kartika Ajie,Goalkeeper,"Jun 20, 1996 (27)",Indonesia,"1,82m",right,14-Apr-22,Arema FC,-,€100k,Persik Kediri
+97,Mohammad Khanafi,Centre-Forward,"Nov 30, 1997 (25)",Indonesia,"1,71m",,30-Jan-23,Persedikab Kediri,30-Apr-25,€50k,Persik Kediri
+4,Syahrul Lasinari,Centre-Back,"Dec 24, 1999 (23)",Indonesia,"1,75m",right,11-Jun-22,FC Bekasi City,2024,€125k,Persikabo 1973
+5,Iman Fathurahman,Defensive Midfield,"May 31, 1994 (29)",Indonesia,"1,75m",right,1-Jul-23,Persikab Bandung,-,€25k,Persikabo 1973
+6,Jovanni Renaldi,Defensive Midfield,"Jun 8, 2003 (20)",Indonesia,"1,78m",right,11-Jun-22,ASIOP FC,2024,€25k,Persikabo 1973
+7,Kaishu Yamazaki,Defensive Midfield,"Jul 12, 1997 (25)",Japan,"1,82m",right,1-Jul-23,Mosta FC,-,€100k,Persikabo 1973
+8,Reza Irfana,Central Midfield,"Jul 9, 1999 (23)",Indonesia,"1,76m",right,1-Jul-23,PSIS Semarang,-,€125k,Persikabo 1973
+9,Komarodin,Right Winger,"Jul 19, 1995 (27)",Indonesia,"1,67m",right,22-Jan-23,PSS Sleman,2024,€125k,Persikabo 1973
+10,Guntur Triaji,Central Midfield,"Jul 30, 1993 (29)",Indonesia,"1,68m",left,30-Jan-23,PSIS Semarang,2024,€100k,Persikabo 1973
+11,José Varela,Right Winger,"Sep 15, 1997 (25)",Cape Verde,"1,68m",right,1-Jul-23,Vitória Setúbal FC,-,-,Persikabo 1973
+12,Roni Sugeng,Attacking Midfield,"Apr 18, 1998 (25)",Indonesia,"1,70m",right,1-Jan-16,PS TNI Youth,31-Dec-24,€175k,Persikabo 1973
+13,Didik Wahyu,Centre-Back,"Feb 13, 1994 (29)",Indonesia,"1,73m",right,4-Jan-18,PSIR Rembang,2024,€125k,Persikabo 1973
+14,Rafael Conrado,Centre-Forward,"Jan 14, 1995 (28)",Brazil,"1,89m",right,5-Jul-23,Qala Saints FC,-,-,Persikabo 1973
+15,Nikola Kovacevic,Defensive Midfield,"Apr 14, 1994 (29)",Serbia,"1,92m",right,1-Jul-23,Al-Nasr Benghazi,-,€150k,Persikabo 1973
+16,Zaenuri Azhar,Goalkeeper,,Indonesia,-,,1-Jul-23,Persikabo 1973 Youth,-,-,Persikabo 1973
+17,Kainoa Bailey,Left Winger,"Aug 2, 1995 (27)",Philippines,"1,77m",right,1-Jul-23,Stallion Laguna FC,31-May-24,-,Persikabo 1973
+18,Kemaluddin,Defensive Midfield,"Apr 28, 1999 (24)",Indonesia,"1,67m",both,8-Jun-22,Without Club,2024,€75k,Persikabo 1973
+20,Mochammad Dicky,Goalkeeper,"Jun 4, 1997 (26)",Indonesia,"1,85m",right,16-Mar-21,Borneo FC Samarinda,-,€125k,Persikabo 1973
+22,Munadi,Defensive Midfield,"Jan 25, 1989 (34)",Indonesia,"1,69m",right,1-Jan-19,Lampung Sakti FC (- 2019),2024,€25k,Persikabo 1973
+25,Alfin Tuasalamony,Right-Back,"May 17, 1993 (30)",Indonesia,"1,77m",right,30-Jan-23,RANS Nusantara FC,30-Jun-24,€150k,Persikabo 1973
+26,Syahrul Trisna,Goalkeeper,"Nov 26, 1995 (27)",Indonesia,"1,80m",right,1-Jan-18,PSS Sleman,-,€175k,Persikabo 1973
+27,Shofa Selantika,Left-Back,"Dec 24, 2002 (20)",Indonesia,-,right,2-Jul-23,PSISa Salatiga,-,-,Persikabo 1973
+28,Lucky Oktavianto,Right-Back,"Oct 5, 1993 (29)",Indonesia,"1,65m",right,9-Jan-22,PS Mitra Kukar,2024,€125k,Persikabo 1973
+31,Krisna Jhon,Left Winger,"May 31, 2006 (17)",Indonesia,"1,71m",,12-Jan-23,Persikabo 1973 Youth,-,€25k,Persikabo 1973
+33,Husna Al Malik,Goalkeeper,"Jun 13, 2003 (20)",Indonesia,"1,78m",,1-Jul-22,FC Bekasi City,2024,€50k,Persikabo 1973
+34,Andy Setyo,Centre-Back,"Sep 16, 1997 (25)",Indonesia,"1,80m",right,1-Jan-17,Pusamania Borneo FC Youth,-,€175k,Persikabo 1973
+58,Frengky Missa,Left-Back,"Feb 20, 2004 (19)",Indonesia,"1,68m",left,1-Jul-23,Persija Jakarta,30-Jun-24,€100k,Persikabo 1973
+66,Syamsul Rifai,Defensive Midfield,,Indonesia,-,,1-Jul-23,Persikabo 1973 Youth,-,-,Persikabo 1973
+69,Manahati Lestusen,Defensive Midfield,"Dec 17, 1993 (29)",Indonesia,"1,68m",right,1-Jul-15,PS Barito Putera,2024,€200k,Persikabo 1973
+77,Rizki Hidayat,Attacking Midfield,"Jul 3, 1997 (26)",Indonesia,"1,74m",right,2-Jul-23,Persijap Jepara,-,€50k,Persikabo 1973
+80,Yudha Febrian,Left-Back,"Feb 13, 2002 (21)",Indonesia,"1,75m",left,1-Jul-23,PSGC Ciamis,-,€50k,Persikabo 1973
+87,Fathul Ihsan,Centre-Back,"Oct 26, 2002 (20)",Indonesia,"1,83m",right,2-Jul-23,PSIS Semarang,-,€25k,Persikabo 1973
+93,Pedrinho,Attacking Midfield,"Jun 18, 1993 (30)",Brazil,"1,72m",right,1-Jul-23,Ghajnsielem FC,-,-,Persikabo 1973
+97,Dimas Drajad,Centre-Forward,"Mar 30, 1997 (26)",Indonesia,"1,78m",right,1-Apr-16,PS TNI Youth,28-Feb-27,€225k,Persikabo 1973
+99,Yandi Sofyan,Centre-Forward,"May 25, 1992 (31)",Indonesia,"1,76m",right,26-May-22,Persikota Tangerang,16-Jul-05,€75k,Persikabo 1973
+1,Muhamad Riyandi,Goalkeeper,"Jan 3, 2000 (23)",Indonesia,"1,81m",right,19-May-22,PS Barito Putera,31-May-26,€250k,Persis Solo
+3,Arif Budiyono,Centre-Back,"Feb 26, 1993 (30)",Indonesia,"1,75m",right,30-Jan-23,Persekat Tegal,31-May-24,€75k,Persis Solo
+5,Jaime,Centre-Back,"Feb 26, 1990 (33)",Brazil,"1,83m",right,13-Jun-22,Madura United FC,31-May-24,€275k,Persis Solo
+6,Alfath Faathier,Right Winger,"Oct 6, 1995 (27)",Indonesia,"1,67m",right,1-Jul-21,Persija Jakarta,1-Jul-24,€125k,Persis Solo
+7,Irfan Jauhari,Left Winger,"Jan 31, 2001 (22)",Indonesia,"1,73m",right,17-Apr-21,Bali United FC,31-May-26,€225k,Persis Solo
+8,Taufiq Febriyanto,Defensive Midfield,"Feb 12, 1997 (26)",Indonesia,"1,66m",right,12-May-22,Persita Tangerang,31-May-24,€125k,Persis Solo
+9,Fernando Rodríguez,Centre-Forward,"May 11, 1987 (36)",Spain,"1,81m",right,1-Aug-22,Johor Darul Ta'zim II,31-Dec-23,€200k,Persis Solo
+10,Alexis Messidoro,Central Midfield,"May 13, 1997 (26)",Argentina,"1,71m",right,13-Jun-22,OF Ierapetras,31-May-25,€400k,Persis Solo
+11,Gavin Kwan,Right-Back,"Apr 5, 1996 (27)",Indonesia,"1,80m",right,19-May-22,Bali United FC,31-May-24,€175k,Persis Solo
+13,Marcell Januar,Centre-Back,"Jan 20, 2004 (19)",Indonesia,"1,77m",right,-,,31-May-25,€75k,Persis Solo
+16,Chrystna Bhagascara,Central Midfield,"Jun 22, 1998 (25)",Indonesia,"1,71m",right,20-May-22,Persekat Tegal,20-May-25,€175k,Persis Solo
+18,Arapenta Poerba,Attacking Midfield,"Nov 1, 1998 (24)",Indonesia,"1,73m",right,24-Apr-21,Bali United FC,31-May-24,€75k,Persis Solo
+19,Roni,Centre-Forward,"Aug 2, 1993 (29)",Spain,"1,81m",right,1-Jul-23,Algeciras CF,31-May-24,€400k,Persis Solo
+22,Sutanto Tan,Defensive Midfield,"May 4, 1994 (29)",Indonesia,"1,77m",right,12-May-22,PSM Makassar,31-May-26,€175k,Persis Solo
+23,Samuel Simanjuntak,Left-Back,"Jul 31, 1999 (23)",Indonesia,"1,72m",left,1-Jul-23,PSM Makassar,31-May-24,€100k,Persis Solo
+25,Moussa Sidibé,Attacking Midfield,"Nov 21, 1994 (28)",Mali,"1,70m",left,1-Jul-23,Johor Darul Ta'zim,31-May-25,€250k,Persis Solo
+26,Rian Miziar,Centre-Back,"Oct 13, 1990 (32)",Indonesia,"1,75m",right,17-Apr-21,Muba Babel United FC,31-May-24,€75k,Persis Solo
+27,Mohammad Kanu,Defensive Midfield,"Apr 27, 2001 (22)",Indonesia,"1,75m",right,1-May-21,Muba Babel United FC,31-May-25,€175k,Persis Solo
+29,Rifqi Ray,Central Midfield,"Jun 22, 2004 (19)",Indonesia,"1,80m",left,1-Jul-23,PERSIS Solo Youth,31-May-25,-,Persis Solo
+30,Eky Taufik,Right-Back,"Feb 15, 1991 (32)",Indonesia,"1,78m",right,29-Apr-21,Persela Lamongan,31-May-24,€100k,Persis Solo
+31,Gianluca Pandeynuwu,Goalkeeper,"Nov 9, 1997 (25)",Indonesia,"1,85m",right,12-May-22,Borneo FC Samarinda,31-May-24,€175k,Persis Solo
+34,Ilham Akbar,Centre-Back,"Jul 20, 2003 (19)",Indonesia,"1,85m",both,-,,31-May-25,-,Persis Solo
+36,Althaf Alrizky,Right Winger,"Jan 6, 2003 (20)",Indonesia,"1,61m",right,25-Jun-22,PERSIS Solo Youth,31-May-26,€50k,Persis Solo
+37,Faqih Maulana,Left-Back,"Sep 11, 2004 (18)",Indonesia,"1,74m",left,25-Jun-22,PERSIS Solo Youth,31-May-26,€25k,Persis Solo
+44,Diego Bardanca,Centre-Back,"Mar 20, 1993 (30)",Philippines,"1,90m",left,1-Jul-23,Buriram United,31-May-25,€150k,Persis Solo
+51,Pancar,Goalkeeper,"Apr 5, 2000 (23)",Indonesia,"1,75m",right,27-Aug-21,Without Club,27-Apr-24,€50k,Persis Solo
+55,Erlangga Setyo,Goalkeeper,"Apr 16, 2003 (20)",Indonesia,"1,95m",right,1-Jan-23,PERSIS Solo Youth,31-May-26,€25k,Persis Solo
+78,Zanadin Fariz,Central Midfield,"May 31, 2004 (19)",Indonesia,"1,66m",right,1-Jun-22,PERSIS Solo Youth,31-May-26,€100k,Persis Solo
+80,Arkhan Kaka,Centre-Forward,"Sep 2, 2007 (15)",Indonesia,"1,88m",right,1-Jan-23,PERSIS Solo Youth,-,€50k,Persis Solo
+87,Shulton Fajar,Defensive Midfield,"Feb 4, 1994 (29)",Indonesia,"1,68m",right,1-Jan-19,PSIM Yogyakarta,31-May-24,€125k,Persis Solo
+91,Rendy Sanjaya,Left Winger,"Apr 11, 2004 (19)",Indonesia,"1,71m",left,1-Jul-23,PERSIS Solo Youth,31-May-25,-,Persis Solo
+99,Ramadhan Sananta,Centre-Forward,"Nov 27, 2002 (20)",Indonesia,"1,82m",right,1-Jul-23,PSM Makassar,31-May-25,€250k,Persis Solo
+3,Christian Rontini,Centre-Back,"Jul 20, 1999 (23)",Philippines,"1,86m",right,1-Jul-23,Kelantan FC,31-May-24,€75k,Persita Tangerang
+5,Charisma Fathoni,Centre-Back,"Feb 25, 2001 (22)",Indonesia,"1,77m",right,1-May-22,Persita Tangerang Youth,-,€50k,Persita Tangerang
+8,Irsyad Maulana,Right Winger,"Sep 27, 1993 (29)",Indonesia,"1,77m",right,15-Jan-23,Arema FC,-,€150k,Persita Tangerang
+9,Ramiro Fergonzi,Centre-Forward,"May 14, 1989 (34)",Argentina,"1,78m",right,8-Jun-22,Persipura Jayapura,-,€175k,Persita Tangerang
+10,Ezequiel Vidal,Attacking Midfield,"Aug 2, 1995 (27)",Argentina,"1,68m",left,15-Jun-22,Independiente Rivadavia,-,€275k,Persita Tangerang
+11,Muhammad Toha,Right-Back,"Jun 30, 1997 (26)",Indonesia,"1,70m",right,19-Apr-17,Pro Duta FC Youth (- 2017),-,€200k,Persita Tangerang
+12,Ambrizal Umanailo,Right Winger,"Jun 12, 1996 (27)",Indonesia,"1,66m",right,1-Jul-23,Borneo FC Samarinda,-,€100k,Persita Tangerang
+13,Adeyemmy,Defensive Midfield,"May 21, 2004 (19)",Indonesia,"1,90m",right,1-Jul-23,Without Club,-,-,Persita Tangerang
+14,Hanis Saghara,Centre-Forward,"Sep 8, 1999 (23)",Indonesia,"1,73m",right,15-Jan-23,Arema FC,-,€175k,Persita Tangerang
+16,Fahd Alchoir,Defensive Midfield,"Dec 16, 2003 (19)",Indonesia,-,,1-Jan-23,Persita Tangerang Youth,-,€10k,Persita Tangerang
+17,Sahrul Reza,Attacking Midfield,"Apr 19, 2002 (21)",Indonesia,-,right,1-Jul-23,Perserang Serang,-,-,Persita Tangerang
+19,Javlon Guseynov,Centre-Back,"Jun 24, 1991 (32)",Uzbekistan,"1,85m",both,30-Jan-23,Borneo FC Samarinda,30-Jun-25,€325k,Persita Tangerang
+21,Rendy Oscario,Goalkeeper,"Oct 7, 1998 (24)",Indonesia,"1,78m",left,1-Jul-23,Madura United FC,-,€150k,Persita Tangerang
+22,Abu Rizal Maulana,Defensive Midfield,"Aug 27, 1994 (28)",Indonesia,"1,65m",right,14-May-22,PSM Makassar,-,€75k,Persita Tangerang
+23,Fairuz Ohorella,Right-Back,"Mar 17, 2002 (21)",Indonesia,-,,1-Jan-23,Persita Tangerang Youth,-,€10k,Persita Tangerang
+26,Adhitya Harlan,Goalkeeper,"Jun 17, 1987 (36)",Indonesia,"1,77m",right,1-Jul-23,PS Barito Putera,-,€75k,Persita Tangerang
+27,Andrean Rindorindo,Centre-Back,"May 2, 2004 (19)",Indonesia,-,,1-Jan-23,Persita Tangerang Youth,-,-,Persita Tangerang
+28,Surya Budi Prasetyo,Right Winger,,Indonesia,-,,1-Jul-23,Without Club,-,-,Persita Tangerang
+29,Sirvi Arvani,Right Winger,"May 11, 1992 (31)",Indonesia,"1,72m",right,1-Jan-16,Persepam Pamekasan,-,€75k,Persita Tangerang
+31,Arif Setiawan,Left-Back,"Sep 4, 1998 (24)",Indonesia,"1,73m",left,13-Jun-22,Dewa United FC,-,€125k,Persita Tangerang
+32,Rifky Dwi Septiawan,Defensive Midfield,"Feb 3, 2002 (21)",Indonesia,-,left,4-Mar-21,Persita Tangerang Youth,-,€75k,Persita Tangerang
+33,Sin-young Bae,Defensive Midfield,"Jun 11, 1992 (31)","Korea, South","1,80m",right,16-Jun-21,Suphanburi FC,2026,€225k,Persita Tangerang
+40,Ikwan Tanamal,Attacking Midfield,"Dec 28, 2003 (19)",Indonesia,-,,1-Jul-23,Without Club,-,-,Persita Tangerang
+47,Mohammad Afganiladin,Attacking Midfield,"Oct 22, 2001 (21)",Indonesia,-,,1-Jul-22,Persita Tangerang Youth,-,€25k,Persita Tangerang
+66,Mario Jardel,Centre-Back,"Nov 7, 2000 (22)",Indonesia,"1,65m",right,10-May-22,PERSIB Bandung,-,€75k,Persita Tangerang
+77,Badrian Ilham,Midfield,,Indonesia,-,,1-Jul-23,Without Club,-,-,Persita Tangerang
+78,Muhamad Darmawan,Goalkeeper,"Mar 16, 2002 (21)",Indonesia,"1,82m",right,1-Jan-22,Persita Tangerang Youth,-,€25k,Persita Tangerang
+88,Fahreza Sudin,Defensive Midfield,"Aug 12, 2000 (22)",Indonesia,"1,68m",right,10-Jun-22,Belitong FC,-,€100k,Persita Tangerang
+90,Jack Brown,Attacking Midfield,"Nov 2, 2001 (21)",Indonesia,"1,75m",right,28-Dec-21,Lincoln City U18,-,€25k,Persita Tangerang
+92,Mateo Bustos,Central Midfield,"Oct 9, 1992 (30)",Argentina,"1,69m",left,1-Jul-23,Without Club,-,€100k,Persita Tangerang
+94,Heri Susanto,Left Winger,"Jul 15, 1994 (28)",Indonesia,"1,70m",left,13-May-22,PERSIS Solo,-,€125k,Persita Tangerang
+99,Esal Sahrul,Left Winger,"Mar 14, 2002 (21)",Indonesia,-,,1-Jan-23,Persita Tangerang Youth,-,€10k,Persita Tangerang
+1,Norhalid,Goalkeeper,"Jun 14, 1997 (26)",Indonesia,"1,80m",,6-Jun-21,Persibangga Purbalingga,31-May-24,€50k,PS Barito Putra
+2,Bagas Kaffa,Right-Back,"Jan 16, 2002 (21)",Indonesia,"1,70m",right,1-Jan-20,PS Barito Putera Youth,1-Apr-26,€225k,PS Barito Putra
+3,Yuswanto Aditya,Centre-Back,"May 10, 2000 (23)",Indonesia,"1,79m",right,1-Jan-20,PS Barito Putera Youth,31-May-24,€50k,PS Barito Putra
+4,Muhammad Helmi,Centre-Back,"Jun 2, 2000 (23)",Indonesia,-,right,1-Jun-22,Persemar Martapura,31-May-24,€25k,PS Barito Putra
+6,Carli de Murga,Centre-Back,"Nov 30, 1988 (34)",Philippines,"1,80m",right,1-Jul-23,Kelantan FC,1-Jun-24,€100k,PS Barito Putra
+7,Makan Konate,Attacking Midfield,"Nov 10, 1991 (31)",Mali,"1,78m",right,1-Jul-23,RANS Nusantara FC,-,€225k,PS Barito Putra
+8,Chris Rumbiak,Right Winger,"Jun 24, 2001 (22)",Indonesia,"1,63m",right,1-Jan-23,Perserang Serang,31-May-24,€50k,PS Barito Putra
+11,Gustavo Tocantins,Second Striker,"Jan 11, 1996 (27)",Brazil,"1,79m",both,7-Jan-23,Persikabo 1973,2024,€200k,PS Barito Putra
+13,Bayu Pradana,Defensive Midfield,"Apr 19, 1991 (32)",Indonesia,"1,80m",right,22-Jan-19,PS Mitra Kukar,31-May-25,€175k,PS Barito Putra
+14,Nazar Nurzaidin,Right-Back,"May 24, 1995 (28)",Indonesia,"1,72m",right,1-Jul-16,PS Barito Putera Youth,-,€100k,PS Barito Putra
+15,Rafi Syarahil,Defensive Midfield,"Nov 15, 2000 (22)",Indonesia,"1,67m",right,1-Jan-18,PS Barito Putera Youth,-,€100k,PS Barito Putra
+16,Alexandro Kamuru,Left-Back,"Aug 19, 2005 (17)",Indonesia,"1,70m",left,4-Mar-21,PS Barito Putera Youth,-,€25k,PS Barito Putra
+17,Ferdiansyah,Defensive Midfield,"Apr 24, 2000 (23)",Indonesia,"1,67m",right,1-Jan-19,PS Barito Putera Youth,31-May-24,€75k,PS Barito Putra
+18,Afdal Yusra,Centre-Forward,"May 4, 1998 (25)",Indonesia,"1,78m",right,23-May-22,Sulut United FC,-,€75k,PS Barito Putra
+19,Ilham Mahendra,Right-Back,"Sep 20, 1996 (26)",Indonesia,"1,74m",right,1-Jul-23,Persiba Balikpapan,-,€75k,PS Barito Putra
+20,Bagus Kahfi,Centre-Forward,"Jan 16, 2002 (21)",Indonesia,"1,69m",right,1-Jul-23,Asteras Tripolis,-,€50k,PS Barito Putra
+22,Alif Jaelani,Attacking Midfield,"Jul 5, 2002 (21)",Indonesia,"1,72m",right,4-Mar-21,PS Barito Putera Youth,-,€50k,PS Barito Putra
+23,Hasim Kipuw,Centre-Back,"May 9, 1988 (35)",Indonesia,"1,80m",right,1-Jul-23,Madura United FC,-,€50k,PS Barito Putra
+24,Aditiya Daffa,Central Midfield,"Jan 11, 2004 (19)",Indonesia,"1,70m",right,4-Mar-21,PS Barito Putera Youth,-,€25k,PS Barito Putra
+26,Rizky Pora,Left Winger,"Nov 22, 1989 (33)",Indonesia,"1,71m",left,1-Apr-16,Pusamania Borneo FC,31-Dec-23,€150k,PS Barito Putra
+27,Reza Zuhro,Attacking Midfield,"Jan 2, 2004 (19)",Indonesia,-,,24-Oct-22,PS Barito Putera Youth,31-May-24,€25k,PS Barito Putra
+28,Buyung Ismu Lessy,Attacking Midfield,"May 8, 1999 (24)",Indonesia,"1,72m",both,30-Aug-21,Without Club,31-May-24,€100k,PS Barito Putra
+31,Murilo,Centre-Forward,"Mar 8, 1995 (28)",Brazil,"1,80m",right,1-Jul-23,Virtus Francavilla Calcio,-,€200k,PS Barito Putra
+32,Ega Rizky,Goalkeeper,"Aug 23, 1992 (30)",Indonesia,"1,76m",right,1-Jul-23,PSS Sleman,-,€125k,PS Barito Putra
+36,Renan Alves,Centre-Back,"Dec 17, 1992 (30)",Brazil,"1,91m",right,11-Jan-22,Kedah Darul Aman FC,31-Dec-23,€300k,PS Barito Putra
+70,Patrick Womsiwor,Attacking Midfield,"May 26, 2001 (22)",Indonesia,"1,70m",left,18-Jan-23,Persipura Jayapura,-,€50k,PS Barito Putra
+81,Dhika Bayangkara,Goalkeeper,"Apr 29, 1991 (32)",Indonesia,"1,80m",right,1-Jul-23,Persita Tangerang,-,€125k,PS Barito Putra
+85,Muhamad Firly,Centre-Back,"Jul 16, 1999 (23)",Indonesia,"1,85m",right,27-Jan-20,PS Barito Putera Youth,-,€75k,PS Barito Putra
+92,Frendi Saputra,Left-Back,"Jan 27, 1992 (31)",Indonesia,"1,73m",right,1-Jul-23,Dewa United FC,-,€175k,PS Barito Putra
+95,Mike Ott,Attacking Midfield,"Mar 2, 1995 (28)",Philippines,"1,67m",both,1-Aug-22,United City FC,31-May-24,€250k,PS Barito Putra
+97,Mario Londok,Goalkeeper,"Nov 14, 1997 (25)",Indonesia,"1,80m",right,1-Jul-23,PERSIB Bandung,-,€25k,PS Barito Putra
+98,Eksel Runtukahu,Centre-Forward,"Sep 2, 1998 (24)",Indonesia,"1,75m",right,1-Jul-23,Sulut United FC,-,€100k,PS Barito Putra
+99,Rahmat Beri Santoso,Centre-Forward,"Feb 2, 2004 (19)",Indonesia,"1,73m",right,9-Jan-22,PS Barito Putera Youth,31-May-24,€50k,PS Barito Putra
+3,Haykal Alhafiz,Left-Back,"Mar 24, 2001 (22)",Indonesia,-,left,1-Jul-23,Persikab Bandung,-,-,PSIS Semarang
+4,Sabillah,Centre-Back,"May 10, 1994 (29)",Indonesia,"1,82m",right,1-Jul-23,Persik Kediri,-,€150k,PSIS Semarang
+5,Wahyu Prasetyo,Centre-Back,"Mar 21, 1998 (25)",Indonesia,"1,80m",right,16-Jan-20,Cilegon United FC,31-May-24,€200k,PSIS Semarang
+7,Vitinho,Right Winger,"May 10, 1993 (30)",Brazil,"1,74m",both,29-Jan-23,Vitória Setúbal FC,30-Jun-24,€125k,PSIS Semarang
+10,Taisei Marukawa,Left Winger,"Jan 30, 1997 (26)",Japan,"1,69m",right,1-Apr-22,Persebaya Surabaya,31-May-25,€375k,PSIS Semarang
+11,Gian Zola,Attacking Midfield,"Aug 5, 1998 (24)",Indonesia,"1,65m",left,1-Jul-23,Arema FC,-,€175k,PSIS Semarang
+13,Bayu Fiqri,Right-Back,"Aug 10, 2001 (21)",Indonesia,"1,76m",right,1-Jul-23,Persib Bandung,-,€125k,PSIS Semarang
+14,Riyan Ardiansyah,Right Winger,"May 14, 1996 (27)",Indonesia,"1,74m",right,1-Jan-19,Persiwa Wamena,31-May-26,€125k,PSIS Semarang
+15,Giovani Numberi,Left-Back,"Apr 22, 2000 (23)",Indonesia,"1,73m",right,1-Jul-23,Persipura Jayapura,-,-,PSIS Semarang
+17,Paulo Gali,Left Winger,,Timor-Leste,"1,65m",left,1-Jul-23,Karketu Dili FC,-,€50k,PSIS Semarang
+19,Alfeandra Dewangga,Centre-Back,"Jun 28, 2001 (22)",Indonesia,"1,79m",left,10-Jan-20,PSIS Semarang Youth,30-Jun-25,€225k,PSIS Semarang
+20,Brandon Scheunemann,Centre-Back,"Mar 9, 2005 (18)",Indonesia,"1,86m",right,15-Jan-23,PERSIS Solo Youth,-,€75k,PSIS Semarang
+21,Boubakary Diarra,Defensive Midfield,"Aug 30, 1993 (29)",France,"1,87m",right,1-Jul-23,Mosta FC,-,€250k,PSIS Semarang
+23,Wawan Febrianto,Left Winger,"Feb 23, 1994 (29)",Indonesia,"1,67m",left,11-May-22,Borneo FC Samarinda,-,€175k,PSIS Semarang
+28,Mohammad Akrom,Centre-Forward,"Feb 28, 2003 (20)",Indonesia,"1,77m",right,1-Jul-23,Persikab Bandung,-,-,PSIS Semarang
+29,David Maulana,Right Winger,"Sep 2, 1996 (26)",Indonesia,"1,74m",both,21-Jan-19,PS Mitra Kukar,-,€100k,PSIS Semarang
+30,Adi Satryo,Goalkeeper,"Jul 7, 2001 (21)",Indonesia,"1,79m",right,2-Jan-23,Persik Kediri,-,€175k,PSIS Semarang
+46,Fredyan Wahyu,Right-Back,"Apr 11, 1998 (25)",Indonesia,"1,66m",right,9-May-19,PSMS Medan,31-May-24,€225k,PSIS Semarang
+51,Syaiful,Goalkeeper,"Jun 11, 1993 (30)",Indonesia,"1,75m",right,1-Jul-23,Dewa United FC,-,€75k,PSIS Semarang
+52,Rizky Darmawan,Goalkeeper,"Feb 5, 1994 (29)",Indonesia,"1,80m",left,1-Jul-23,Persita Tangerang,-,€75k,PSIS Semarang
+56,Ridho Syuhada,Attacking Midfield,"Jun 18, 2004 (19)",Indonesia,"1,71m",right,1-Jan-23,PSIS Semarang Youth,-,€75k,PSIS Semarang
+57,Faizin Madilesa,Midfield,"Nov 25, 2005 (17)",Indonesia,-,,1-Jul-23,PSIS Semarang Youth,-,-,PSIS Semarang
+68,Tri Setiawan,Defensive Midfield,"May 20, 2004 (19)",Indonesia,"1,78m",,1-Jul-23,Persipal Palu (Babel United),-,-,PSIS Semarang
+69,Delvin Rumbino,Central Midfield,"Jun 3, 1995 (28)",Indonesia,"1,75m",right,10-May-22,PERSIS Solo,31-May-24,€125k,PSIS Semarang
+71,Luthfi Kamal,Defensive Midfield,"Jan 20, 1999 (24)",Indonesia,"1,70m",right,3-Jan-23,PS Barito Putera,-,€175k,PSIS Semarang
+76,Husein Akbar,Goalkeeper,"Feb 18, 2005 (18)",Indonesia,-,,1-Jul-23,PSIS Semarang Youth,-,-,PSIS Semarang
+90,Carlos Fortes,Centre-Forward,"Nov 9, 1994 (28)",Portugal,"1,88m",right,1-Apr-22,Arema FC,30-Jun-24,€300k,PSIS Semarang
+93,Lucão,Centre-Back,"Jul 10, 1993 (29)",Brazil,"1,96m",right,1-Jul-23,Persikabo 1973,-,€225k,PSIS Semarang
+99,Rizky Dwi,Centre-Forward,"Apr 9, 1999 (24)",Indonesia,"1,84m",right,1-Jul-23,Sulut United FC,-,€50k,PSIS Semarang
+1,Ardiansyah,Goalkeeper,"Mar 28, 2003 (20)",Indonesia,"1,87m",right,9-Jun-21,PSM Makassar Youth,2025,€25k,PSM Makassar
+2,Kike Linares,Centre-Back,"Jul 12, 1999 (23)",Philippines,"1,87m",right,1-Jul-23,Lamphun Warriors,2024,€125k,PSM Makassar
+4,Yuran Fernandes,Centre-Back,"Oct 19, 1994 (28)",Cape Verde,"1,98m",left,4-Jun-22,SC União Torreense,2026,€325k,PSM Makassar
+5,Erwin Gutawa,Centre-Back,"Jul 6, 1992 (30)",Indonesia,"1,75m",right,1-Mar-21,Sriwijaya FC,2024,€100k,PSM Makassar
+7,Victor Dethan,Right Winger,"Jul 11, 2004 (18)",Indonesia,"1,74m",right,1-Jan-23,PSM Makassar Youth,2024,€75k,PSM Makassar
+8,Ananda Raehan,Defensive Midfield,"Dec 17, 2003 (19)",Indonesia,"1,75m",right,1-Jun-22,PSM Makassar Youth,2026,€100k,PSM Makassar
+9,Donald Bissa,Centre-Forward,"Dec 13, 1991 (31)",Indonesia,"1,85m",right,1-Aug-22,Without Club,2024,€75k,PSM Makassar
+10,Everton,Centre-Forward,"Jul 3, 1993 (30)",Brazil,"1,86m",right,18-May-22,Hidd SCC,2024,€225k,PSM Makassar
+11,Dzaky Asraf,Right Winger,"Feb 6, 2003 (20)",Indonesia,"1,70m",right,1-Jun-22,PSM Makassar Youth,2026,€125k,PSM Makassar
+14,Sulthan Zaky,Centre-Back,"Mar 23, 2006 (17)",Indonesia,"1,86m",right,1-Jan-23,PSM Makassar Youth,-,€50k,PSM Makassar
+15,Ricky Pratama,Centre-Forward,"May 6, 2003 (20)",Indonesia,"1,78m",right,1-Jul-22,PSM Makassar Youth,-,€50k,PSM Makassar
+16,Sandy Ferizal,Right-Back,"May 17, 1999 (24)",Indonesia,"1,78m",right,1-Jul-23,Persela Lamongan,-,€100k,PSM Makassar
+17,Rasyid Bakri,Central Midfield,"Jan 17, 1991 (32)",Indonesia,"1,64m",right,1-Jul-11,PSM Makassar Youth,2024,€150k,PSM Makassar
+18,Andy Harjito,Centre-Forward,"Sep 27, 2001 (21)",Indonesia,"1,80m",right,1-Jul-23,Borneo FC Samarinda,1-Jun-24,€75k,PSM Makassar
+19,Rizky Pellu,Central Midfield,"Jun 26, 1992 (31)",Indonesia,"1,77m",right,24-May-23,Bali United FC,2025,€125k,PSM Makassar
+20,Adilson Silva,Centre-Forward,"Jul 30, 1997 (25)",Portugal,"1,91m",right,1-Jul-23,Real SC,2024,-,PSM Makassar
+21,Raka Okta,Goalkeeper,"Oct 1, 2004 (18)",Indonesia,"1,76m",,1-Jan-23,PSS Sleman Youth,2025,€25k,PSM Makassar
+22,Yakob Sayuri,Right Winger,"Sep 22, 1997 (25)",Indonesia,"1,68m",right,1-Feb-20,PS Barito Putera,2024,€225k,PSM Makassar
+23,Yance Sayuri,Left-Back,"Sep 22, 1997 (25)",Indonesia,"1,65m",left,20-Mar-21,Persemi Mimika,2024,€200k,PSM Makassar
+24,Rizky Eka Pratama,Right Winger,"Dec 24, 1999 (23)",Indonesia,"1,71m",right,1-Mar-19,PSM Makassar Youth,2026,€175k,PSM Makassar
+26,Harlan Suardi,Goalkeeper,"Jan 26, 1999 (24)",Indonesia,"1,75m",right,15-Jun-22,Persijap Jepara,2025,€75k,PSM Makassar
+27,Safrudin Tahar,Right-Back,"Dec 13, 1993 (29)",Indonesia,"1,72m",right,14-May-22,Borneo FC Samarinda,2024,€150k,PSM Makassar
+30,Reza Pratama,Goalkeeper,"May 18, 2000 (23)",Indonesia,"1,88m",right,1-Jan-19,PSM Makassar Youth,2026,€175k,PSM Makassar
+39,Kenzo Nambu,Attacking Midfield,"Aug 22, 1992 (30)",Japan,"1,73m",right,6-Jun-22,Rayong FC,30-Jun-24,€200k,PSM Makassar
+41,Adil Nur,Defensive Midfield,"May 10, 2004 (19)",Indonesia,-,,7-Dec-22,PSM Makassar Youth,-,€25k,PSM Makassar
+45,Akbar Tanjung,Defensive Midfield,"May 16, 1993 (30)",Indonesia,"1,86m",right,31-May-22,PSIM Yogyakarta,2024,€175k,PSM Makassar
+48,Muhammad Arfan,Defensive Midfield,"Jan 22, 1998 (25)",Indonesia,"1,70m",right,1-Dec-17,PSM Makassar Youth,2026,€225k,PSM Makassar
+68,Daffa Salman,Centre-Back,"Apr 30, 2002 (21)",Indonesia,-,right,20-Jul-23,Persela Lamongan,-,-,PSM Makassar
+71,Mufli Hidayat,Centre-Forward,"Aug 7, 2005 (17)",Indonesia,"1,72m",right,1-Dec-22,PSM Makassar Youth,-,€50k,PSM Makassar
+74,Edgard Amping,Left-Back,"Jun 9, 2003 (20)",Indonesia,"1,68m",left,1-Jan-22,PSM Makassar Youth,31-Dec-25,€75k,PSM Makassar
+77,Syamil Bahij,Goalkeeper,,Indonesia,"1,80m",,14-Jul-23,Without Club,16-Jul-05,-,PSM Makassar
+80,Wiljan Pluim,Attacking Midfield,"Jan 4, 1989 (34)",Netherlands,"1,94m",right,1-Aug-16,Becamex Binh Duong FC,31-Dec-25,€300k,PSM Makassar
+1,Anthony Pinthus,Goalkeeper,"Apr 4, 1998 (25)",Philippines,"1,82m",right,1-Jul-23,Without Club,-,€150k,PSS Sleman
+3,Muhammad Fariz,Right-Back,"Sep 2, 2004 (18)",Indonesia,"1,60m",right,1-Jul-22,PSS Sleman Youth,-,€25k,PSS Sleman
+4,Nurdiansyah,Centre-Back,"Dec 18, 1998 (24)",Indonesia,"1,76m",left,1-Jul-23,Borneo FC Samarinda,-,€125k,PSS Sleman
+5,Thales,Centre-Back,"Apr 6, 1993 (30)",Brazil,"1,88m",right,1-Jul-23,Centro Sportivo Alagoano (AL),-,€350k,PSS Sleman
+6,Jihad Ayoub,Defensive Midfield,"Mar 30, 1995 (28)",Lebanon,"1,87m",right,6-Jul-22,Al-Ansar FC,2024,€275k,PSS Sleman
+7,Kei Sano,Left Winger,"Apr 3, 1992 (31)",Japan,"1,72m",right,1-Jul-23,Sirens FC,-,€225k,PSS Sleman
+8,Esteban Vizcarra,Left Winger,"Apr 11, 1986 (37)",Indonesia,"1,75m",both,1-Jul-23,Madura United FC,-,€50k,PSS Sleman
+9,Saddam Gaffar,Centre-Forward,"Sep 24, 2001 (21)",Indonesia,"1,87m",left,29-Aug-19,PSS Sleman Youth,30-Apr-24,€150k,PSS Sleman
+10,Yevgen Bokhashvili,Centre-Forward,"Jan 5, 1993 (30)",Ukraine,"1,85m",both,9-Jan-23,SC Otelul Galati,-,€175k,PSS Sleman
+11,Ricky Cawor,Centre-Forward,"Jan 26, 1998 (25)",Indonesia,"1,65m",right,19-Jan-23,Persija Jakarta,-,€125k,PSS Sleman
+12,Muhammad Ridwan,Goalkeeper,"Mar 26, 1991 (32)",Indonesia,"1,79m",right,23-Apr-22,Madura United FC,-,€150k,PSS Sleman
+14,Diop Wamu,Central Midfield,"Jun 20, 2002 (21)",Indonesia,"1,59m",,1-Jul-23,Without Club,2026,-,PSS Sleman
+17,Riki Dwi Saputro,Centre-Forward,"Feb 20, 1995 (28)",Indonesia,"1,75m",right,15-Apr-22,Persekat Tegal,-,€125k,PSS Sleman
+20,Haris Tuharea,Left Winger,"Nov 22, 1994 (28)",Indonesia,"1,72m",right,19-Jan-23,Madura United FC,-,€100k,PSS Sleman
+21,Dimas Fani,Goalkeeper,"May 18, 2000 (23)",Indonesia,"1,75m",right,20-Aug-20,PSS Sleman Youth,31-Mar-23,€25k,PSS Sleman
+22,Ibrahim Sanjaya,Right-Back,"Aug 26, 1997 (25)",Indonesia,"1,78m",right,23-Apr-22,Persik Kediri,-,€125k,PSS Sleman
+23,Kim Kurniawan,Central Midfield,"Mar 23, 1990 (33)",Indonesia,"1,68m",both,1-Mar-21,PERSIB Bandung,-,€150k,PSS Sleman
+25,Derry Rachman,Left-Back,"Dec 15, 1994 (28)",Indonesia,"1,60m",left,27-Jan-19,PS Mojokerto Putra,-,€125k,PSS Sleman
+27,Irkham Mila,Right Winger,"May 2, 1998 (25)",Indonesia,"1,68m",right,15-Jan-18,PERSIS Solo,-,€150k,PSS Sleman
+28,Arlan,Attacking Midfield,"Aug 18, 2002 (20)",Indonesia,-,right,1-Jun-22,PSS Sleman Youth,-,€25k,PSS Sleman
+30,Kevin Gomes,Left-Back,"Jun 24, 1998 (25)",Indonesia,"1,82m",left,20-Jan-23,PERSIS Solo,-,€125k,PSS Sleman
+31,Safaat Romadhona,Goalkeeper,"Nov 18, 2002 (20)",Indonesia,"1,78m",,1-Jul-23,Persab Brebes,-,-,PSS Sleman
+32,Jonathan Bustos,Attacking Midfield,"Jun 29, 1994 (29)",Argentina,"1,74m",left,1-Jul-23,Borneo FC Samarinda,-,€350k,PSS Sleman
+33,Wahyudi Hamisi,Defensive Midfield,"Jul 28, 1997 (25)",Indonesia,"1,66m",right,1-Jul-23,Borneo FC Samarinda,-,€75k,PSS Sleman
+36,Dominikus Dion,Attacking Midfield,"Oct 14, 2004 (18)",Indonesia,"1,66m",,1-Jul-23,PSS Sleman Youth,-,-,PSS Sleman
+38,Nyoman Ansanay,Right-Back,"Jul 8, 2001 (21)",Indonesia,"1,74m",right,1-Jul-23,Persewar Waropen,-,€25k,PSS Sleman
+46,Todd Ferre,Attacking Midfield,"Mar 15, 1999 (24)",Indonesia,"1,58m",right,11-May-22,Persipura Jayapura,-,€175k,PSS Sleman
+72,Bayu Setiawan,Right-Back,"Dec 27, 1998 (24)",Indonesia,-,right,1-Jul-23,RANS Nusantara FC,-,€25k,PSS Sleman
+78,Ifan Nanda,Centre-Back,"Mar 29, 2001 (22)",Indonesia,"1,81m",right,29-Aug-20,PSS Sleman Youth,30-Jun-24,€75k,PSS Sleman
+80,Hokky Caraka,Centre-Forward,"Aug 21, 2004 (18)",Indonesia,"1,86m",right,10-May-22,PSS Sleman Youth,-,€200k,PSS Sleman
+88,Leonard Tupamahu,Centre-Back,"Jul 9, 1983 (39)",Indonesia,"1,79m",right,1-Jul-23,Bali United FC,-,€10k,PSS Sleman
+92,Dave Mustaine,Central Midfield,"Nov 16, 1992 (30)",Indonesia,"1,80m",right,21-Dec-21,Arema FC,-,€100k,PSS Sleman
+96,Abduh Lestaluhu,Left-Back,"Oct 16, 1993 (29)",Indonesia,"1,70m",left,1-Jul-23,PERSIS Solo,-,€200k,PSS Sleman
+2,Muhammad Syukron,Centre-Back,"Feb 24, 1997 (26)",Indonesia,"1,83m",right,1-Jul-23,Persipa Pati,-,€25k,RANS Nusantara FC
+3,Ângelo,Centre-Back,"Jul 3, 1993 (30)",Portugal,"1,89m",right,1-Jul-23,SC Covilhã,-,€200k,RANS Nusantara FC
+5,Dallen Doke,Right-Back,"Jan 2, 1998 (25)",Indonesia,"1,72m",right,1-Jul-23,PSM Makassar,-,€100k,RANS Nusantara FC
+7,Tavinho,Right Winger,"Sep 4, 1993 (29)",Portugal,"1,81m",right,1-Jul-23,FC Alverca,-,-,RANS Nusantara FC
+8,Antoni Nugroho,Right Winger,"Feb 25, 1994 (29)",Indonesia,"1,68m",both,1-Jul-23,Bhayangkara FC,-,€125k,RANS Nusantara FC
+9,Kenshiro Daniels,Centre-Forward,"Jan 13, 1995 (28)",Philippines,"1,77m",right,1-Jul-23,Sukhothai FC,-,€200k,RANS Nusantara FC
+10,Evandro Brandão,Second Striker,"May 7, 1991 (32)",Angola,"1,81m",right,1-Jul-23,FC Alverca,-,-,RANS Nusantara FC
+11,Abdul Rahman,Attack,"Aug 1, 2002 (20)",Indonesia,-,,1-Jul-23,Serpong City FC,-,-,RANS Nusantara FC
+13,Samsul Arifin,Left-Back,"Jan 3, 1992 (31)",Indonesia,"1,63m",left,1-Jul-23,Bhayangkara FC,-,€75k,RANS Nusantara FC
+17,Paulo Sitanggang,Central Midfield,"Oct 17, 1995 (27)",Indonesia,"1,68m",right,1-Jul-23,Borneo FC Samarinda,-,€150k,RANS Nusantara FC
+19,Rabbani Tasnim,Centre-Forward,"May 26, 2003 (20)",Indonesia,"1,85m",right,1-Jul-23,Borneo FC Samarinda,30-Jun-24,€125k,RANS Nusantara FC
+20,Andi Irfan,Left Winger,"May 25, 2001 (22)",Indonesia,"1,61m",right,1-Jul-23,Sada Sumut FC,-,€100k,RANS Nusantara FC
+21,Aqsal Mustafa,Right Winger,"Sep 8, 2001 (21)",Indonesia,-,right,1-Jul-23,Without Club,-,-,RANS Nusantara FC
+22,Marckho Merauje,Right-Back,"Dec 4, 1994 (28)",Indonesia,"1,78m",right,1-Jul-23,PSS Sleman,-,€150k,RANS Nusantara FC
+23,Hamka Hamzah,Centre-Back,"Jan 29, 1984 (39)",Indonesia,"1,83m",right,1-Jul-23,FC Bekasi City,-,-,RANS Nusantara FC
+25,Zidane Afandi,Defensive Midfield,,Indonesia,-,,1-Jul-23,Without Club,-,-,RANS Nusantara FC
+26,Kiko,Centre-Back,"Mar 25, 2000 (23)",Portugal,"1,82m",both,1-Jul-23,CDC Montalegre,-,-,RANS Nusantara FC
+27,Meru Kimura,Centre-Back,"Jun 27, 2001 (22)",Indonesia,"1,87m",left,1-Mar-22,PSKC Cimahi,1-Mar-25,€50k,RANS Nusantara FC
+28,Arif Satria,Centre-Back,"Sep 17, 1995 (27)",Indonesia,"1,83m",right,22-Apr-22,Persebaya Surabaya,2024,€200k,RANS Nusantara FC
+34,Try Hamdani,Goalkeeper,"Jan 3, 1994 (29)",Indonesia,"1,82m",left,1-Jul-23,PSS Sleman,-,€75k,RANS Nusantara FC
+36,Ilhamsyah,Defensive Midfield,"Jul 2, 1999 (24)",Indonesia,"1,69m",right,1-Jul-23,Borneo FC Samarinda,-,€50k,RANS Nusantara FC
+45,Taufik Hidayat,Left-Back,"Mar 20, 1993 (30)",Indonesia,"1,67m",right,1-Jul-23,PSIS Semarang,-,€125k,RANS Nusantara FC
+57,Fikri Ntong,Goalkeeper,"May 28, 2003 (20)",Indonesia,"1,80",right,15-Apr-22,RANS Nusantara FC Youth,-,€10k,RANS Nusantara FC
+64,Wahyudi,Goalkeeper,"Aug 24, 1998 (24)",Indonesia,"1,80m",right,8-May-21,Badak Lampung FC,31-Mar-24,€75k,RANS Nusantara FC
+66,Mitsuru Maruoka,Central Midfield,"Jan 6, 1996 (27)",Japan,"1,70m",right,10-Jul-22,Gimpo FC,2024,€200k,RANS Nusantara FC
+78,Muhammad Irman,Centre-Forward,"May 21, 1999 (24)",Indonesia,"1,70m",right,1-Jul-23,PSCS Cilacap,-,€50k,RANS Nusantara FC
+88,Fadilla Akbar,Defensive Midfield,"Sep 8, 2001 (21)",Indonesia,"1,73m",left,14-Apr-21,Without Club,2024,€150k,RANS Nusantara FC
+93,Erwin Ramdani,Left Winger,"Mar 11, 1993 (30)",Indonesia,"1,69m",left,1-Jul-23,PERSIB Bandung,-,€125k,RANS Nusantara FC
+97,Hilmansyah,Goalkeeper,"May 25, 1997 (26)",Indonesia,"1,83m",right,20-Apr-22,PSM Makassar,2024,€150k,RANS Nusantara FC
+99,KH Yudo,Left Winger,"Jul 16, 1993 (29)",Indonesia,"1,73m",both,1-Jul-23,Arema FC,-,€125k,RANS Nusantara FC
